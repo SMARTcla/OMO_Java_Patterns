@@ -1,0 +1,91 @@
+Report House Consumption: 
+
+Energy costs. Devices: 
+
+ Alarms: 
+  1). 
+ALARM with id={1} and name={Wake up Bro}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 5 + 4/ 60 * 5 * 5 + 577/ 60 * 10 * 10 + 387407/ 60 * 5 * 10 = 323802.50
+Total energy consumed 64664.33
+ 
+ Coffee Machines: 
+  1). 
+COFFEE_MACHINE with id={2} and name={Tchibo Machine Barista}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 120 + 20/ 60 * 5 * 120 + 0/ 60 * 10 * 240 + 62/ 60 * 5 * 240 + 0/ 60 * 10 * 120 + 0/ 60 * 5 * 120 + 91/ 60 * 10 * 240 + 5/ 60 * 5 * 240 + 0/ 60 * 10 * 120 + 0/ 60 * 5 * 120 + 123/ 60 * 10 * 240 + 0/ 60 * 5 * 240 + 205/ 60 * 10 * 120 + 0/ 60 * 5 * 120 + 225/ 60 * 10 * 240 + 0/ 60 * 5 * 240 + 0/ 60 * 10 * 120 + 0/ 60 * 5 * 120 + 235/ 60 * 10 * 240 + 0/ 60 * 5 * 240 + 577/ 60 * 10 * 120 + 387125/ 60 * 5 * 120 = 3915390.25
+Total energy consumed 778818.00
+ 
+ Fridges: 
+  1). 
+FRIDGE with id={3} and name={Samsung DL200 Full No Frost}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 23 + 4/ 60 * 5 * 23 + 0/ 60 * 10 * 45 + 24/ 60 * 5 * 45 + 0/ 60 * 10 * 23 + 0/ 60 * 5 * 23 + 0/ 60 * 10 * 45 + 46/ 60 * 5 * 45 + 0/ 60 * 10 * 23 + 0/ 60 * 5 * 23 + 0/ 60 * 10 * 45 + 10/ 60 * 5 * 45 + 11/ 60 * 10 * 23 + 15/ 60 * 5 * 23 + 85/ 60 * 10 * 45 + 0/ 60 * 5 * 45 + 0/ 60 * 10 * 23 + 0/ 60 * 5 * 23 + 0/ 60 * 10 * 45 + 0/ 60 * 5 * 45 + 577/ 60 * 10 * 23 + 387275/ 60 * 5 * 23 = 745505.06
+Total energy consumed 148811.86
+ 
+ Lamps: 
+  1). 
+LAMP with id={4} and name={Phillips 200 kWt}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 23 + 24/ 60 * 5 * 23 + 0/ 60 * 10 * 45 + 56/ 60 * 5 * 45 + 0/ 60 * 10 * 23 + 0/ 60 * 5 * 23 + 7/ 60 * 10 * 45 + 11/ 60 * 5 * 45 + 577/ 60 * 10 * 23 + 387353/ 60 * 5 * 23 = 744988.12
+Total energy consumed 148771.20
+ 
+ PCs: 
+  1). 
+PC with id={5} and name={HP Pavilion 295GTX}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 18 + 22/ 60 * 5 * 18 + 0/ 60 * 10 * 35 + 40/ 60 * 5 * 35 + 0/ 60 * 10 * 18 + 0/ 60 * 5 * 18 + 11/ 60 * 10 * 35 + 41/ 60 * 5 * 35 + 0/ 60 * 10 * 18 + 0/ 60 * 5 * 18 + 61/ 60 * 10 * 35 + 0/ 60 * 5 * 35 + 0/ 60 * 10 * 18 + 0/ 60 * 5 * 18 + 81/ 60 * 10 * 35 + 0/ 60 * 5 * 35 + 0/ 60 * 10 * 18 + 0/ 60 * 5 * 18 + 193/ 60 * 10 * 35 + 0/ 60 * 5 * 35 + 0/ 60 * 10 * 18 + 0/ 60 * 5 * 18 + 205/ 60 * 10 * 35 + 0/ 60 * 5 * 35 + 577/ 60 * 10 * 18 + 387155/ 60 * 5 * 18 = 585946.94
+Total energy consumed 116694.87
+ 
+ Play Stations: 
+  1). 
+PLAY_STATION with id={6} and name={PlayStation 4 Ultimate}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 13 + 36/ 60 * 5 * 13 + 0/ 60 * 10 * 25 + 12/ 60 * 5 * 25 + 577/ 60 * 10 * 13 + 387407/ 60 * 5 * 13 = 421005.06
+Total energy consumed 84075.99
+ 
+ Showers: 
+  1). 
+SHOWER with id={7} and name={Aqua Shower}.
+ Energy: WATER
+ 0/ 60 * 20 * 28 + 4/ 60 * 10 * 28 + 0/ 60 * 20 * 55 + 16/ 60 * 10 * 55 + 0/ 60 * 20 * 28 + 20/ 60 * 10 * 28 + 0/ 60 * 20 * 55 + 18/ 60 * 10 * 55 + 0/ 60 * 20 * 28 + 6/ 60 * 10 * 28 + 0/ 60 * 20 * 55 + 4/ 60 * 10 * 55 + 193/ 60 * 20 * 28 + 35/ 60 * 10 * 28 + 221/ 60 * 20 * 55 + 0/ 60 * 10 * 55 + 0/ 60 * 20 * 28 + 0/ 60 * 10 * 28 + 577/ 60 * 20 * 55 + 387139/ 60 * 10 * 55 = 3565857.25
+Total energy consumed 355764.16
+ 
+ Speakers: 
+  1). 
+SPEAKER with id={8} and name={Google Speaker ver.1.2}.
+ Energy: ELECTRIC
+
+ 
+ TVs: 
+  1). 
+TV with id={11} and name={LG TV 50 inches}.
+ Energy: ELECTRIC
+ 577/ 60 * 10 * 5 + 387247/ 60 * 5 * 5 = 161833.75
+Total energy consumed 32318.67
+  2). 
+TV with id={12} and name={Sony TV 150M inches}.
+ Energy: ELECTRIC
+
+  3). 
+TV with id={13} and name={HP TV Full HD 50 inches}.
+ Energy: ELECTRIC
+ 577/ 60 * 10 * 5 + 387211/ 60 * 5 * 5 = 161818.73
+Total energy consumed 32315.67
+ 
+ Teapots: 
+  1). 
+TEAPOT with id={9} and name={Electric Nokia}.
+ Energy: ELECTRIC
+
+  2). 
+TEAPOT with id={10} and name={Electric Nokia}.
+ Energy: ELECTRIC
+
+ 
+ Vacuum Cleaners: 
+  1). 
+VACUUM_CLEANER with id={14} and name={Dyson Vacuum Cleaner}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 5 + 8/ 60 * 5 * 5 + 0/ 60 * 10 * 10 + 24/ 60 * 5 * 10 + 85/ 60 * 10 * 5 + 55/ 60 * 5 * 5 + 113/ 60 * 10 * 10 + 0/ 60 * 5 * 10 + 577/ 60 * 10 * 5 + 387247/ 60 * 5 * 5 = 162139.17
+Total energy consumed 32353.83

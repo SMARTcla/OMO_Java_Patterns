@@ -1,0 +1,2206 @@
+ Report House Configuration: 
+ 
+ Transports: 
+1. CAR Volga 1-Series. Current user: Лукас Павлович Давыдов.
+2. CAR Oka Auto 2-Series. Current user: Логан Андреевич Родригес.
+3. CAR Volga 3-Series.
+4. CAR Istra 250 4-Series.
+5. CAR Volga 5-Series.
+6. CAR Volga 6-Series.
+7. CAR Yarik 7-Series.
+8. CAR Kamaz 2000 Turbo1.
+9. CAR Kamaz 2000 Turbo2.
+10. CAR Kamaz 2000 Turbo3.
+11. CAR Kamaz 2000 Turbo4.
+12. CAR Namaz 2000 Turbo5.
+13. CAR Pomaz 2000 Turbo6.
+14. CAR Namazh Z4.
+15. CAR Volga M.
+16. SKIS Auto Vaz Tolyati Production Sport. Current user: Екатерина Ивановна Смирнова.
+17. BICYCLE Auto Vaz Tolyati Production Motorrad AG. Current user: Изабелла Александровна Уокер. Waiting in line: Мия Александровна Гарсия.
+18. BICYCLE Auto Vaz Tolyati Production Motorrad R20. Current user: Хлоя Викторовна Тимофеева. Waiting in line: Софья Александровна Смирнова, Анна Андреевна Браун.
+19. CAR Auto Vaz Tolyati Production AG 2000.
+20. CAR Volga 5-Series Coupe.
+21. SCOOTER Volga Scooter Pro 2. Current user: Ефим Александрович Морозов. Waiting in line: Михаил Павлович Давыдов, Калеб Андреевич Джонсон.
+22. SCOOTER Auto Vaz Tolyati Max G30. Current user: София Андреевна Тернер.
+23. CAR Volga 1-Series Coupe.
+24. CAR Auto Vaz Tolyati 3-Series G20.
+25. CAR Volga 3-Series F30.
+26. CAR Auto Vaz Tolyati 3-Series F31.
+27. CAR Auto Vaz Tolyati 3-Series F34.
+28. CAR Volga E90.
+29. CAR Volga 3-Series E91.
+30. CAR Auto Vaz Tolyati 3-Series E93.
+31. CAR Volga 3-Series E46.
+32. MOTORBIKE Auto Vaz Tolyati ZX-10R. Current user: Ноа Александрович Ли. Waiting in line: Харпер Александровна Иванова, Екатерина Владимировна Харрис.
+33. SCOOTER Auto Vaz Tolyati Electric Scooter 3. Current user: Илья Александрович Фостер. Waiting in line: Захар Викторович Белый.
+34. SCOOTER Auto Vaz Tolyati Ninebot ES4. Current user: Джексон Александрович Пауэлл. Waiting in line: Лиам Викторович Белый, Даниил Андреевич Андреев, Коннор Андреевич Митчелл, Грейс Александровна Паркер.
+
+ Persons: 
+35. CHILD Иванов Иван Иванович. State: OUTSIDE
+36. ADULT Екатерина Ивановна Смирнова. State: OUTSIDE
+37. ADULT Михаил Павлович Давыдов. State: WAIT
+38. ADULT Ольга Андреевна Борисова. State: OUTSIDE
+39. ADULT Владимир Викторович Тимофеев. State: OUTSIDE
+40. ADULT Софья Александровна Смирнова. State: WAIT
+41. ADULT Даниил Андреевич Андреев. State: WAIT
+42. CHILD Анна Владимировна Васнецова. State: OUTSIDE
+43. ADULT Ефим Александрович Морозов. State: OUTSIDE
+44. ADULT Изабелла Александровна Мартынова. State: OUTSIDE
+45. ADULT Лиам Викторович Белый. State: WAIT
+46. ADULT Екатерина Владимировна Харрис. State: WAIT
+47. ADULT Ноа Александрович Ли. State: OUTSIDE
+48. ADULT Мия Александровна Гарсия. State: WAIT
+49. ADULT Логан Андреевич Родригес. State: OUTSIDE
+50. ADULT София Андреевна Тернер. State: OUTSIDE
+51. ADULT Калеб Андреевич Джонсон. State: WAIT
+52. ADULT Грейс Александровна Паркер. State: WAIT
+53. ADULT Коннор Андреевич Митчелл. State: WAIT
+54. ADULT Анна Андреевна Браун. State: WAIT
+55. ADULT Лукас Павлович Давыдов. State: OUTSIDE
+56. ADULT Изабелла Александровна Уокер. State: OUTSIDE
+57. ADULT Илья Александрович Фостер. State: OUTSIDE
+58. ADULT Аверий Иванович Иванов. State: OUTSIDE
+59. ADULT Хлоя Викторовна Тимофеева. State: OUTSIDE
+60. ADULT Захар Викторович Белый. State: WAIT
+61. ADULT Мэдисон Андреевна Хилл. State: OUTSIDE
+62. ADULT Джексон Александрович Пауэлл. State: OUTSIDE
+63. ADULT Харпер Александровна Иванова. State: WAIT
+64. ADULT Генри Андреевич Тернер. State: WAIT
+
+ Pets: 
+1. PET Мурзик. State: ACTIVITY
+2. PET Барсик. State: ACTIVITY
+3. PET Шарик. State: ACTIVITY
+4. PET Тузик. State: ACTIVITY
+5. PET Смоки. State: ACTIVITY
+6. PET Дружок. State: ACTIVITY
+7. PET Чарли. State: ACTIVITY
+8. PET Грызунок. State: ACTIVITY
+9. PET Щёчки. State: ACTIVITY
+10. PET Пищалка. State: ACTIVITY
+11. PET Усач. State: ACTIVITY
+12. PET Золотко. State: ACTIVITY
+13. PET Брызги. State: ACTIVITY
+14. PET Пузырь. State: ACTIVITY
+15. PET Финн. State: ACTIVITY
+16. PET Пушистик. State: ACTIVITY
+17. PET Симба. State: ACTIVITY
+18. PET Полли. State: ACTIVITY
+ Floors: 
+1) Count rooms: 3.
+   Windows: 
+  1
+ -> Room id 1.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Air Quality Sensors: 
+  1. ID 3. Dyson Air Quality Sensor 1,2 kWt UK Purifier. Type: AIR_QUALITY_CHANGE. Data: 100 
+   Light Sensors: 
+  1. ID 1. Philips Hue Light Sensor 1,5 kWt Japan For Lighting. Type: LIGHT. Data: 1 
+   Motion Sensors: 
+  1. ID 2. Xiaomi Motion Sensor 2,0 kWt China Smart Home. Type: MOTION. Data: 0 
+  2. ID 11. Bosch Motion Sensor 1,7 kWt Germany Security. Type: MOTION. Data: 0 
+   Smart Energy Meters: 
+  1. ID 7. Technika Kazan Tatar Pro Energy Meter 3,0 kWt Germany Home Automation. Type: SMART_ENERGY_METER. Data: 100 
+  2. ID 9. Technika Kazan Tatar Pro Energy 3,5 kWt Germany Home Automation. Type: SMART_ENERGY_METER. Data: 100 
+   Temperature Sensors: 
+  1. ID 8. Nest Temperature Sensor 2 kWt USA. Type: TEMPERATURE. Data: 20 
+  2. ID 10. Nest Temperature Sensor 2,5 kWt USA Thermostat. Type: TEMPERATURE. Data: 20 
+   Water Leak Sensors: 
+  1. ID 12. Technika Kazan Leak Sensor 1,3 kWt Poland Home Security. Type: WATER_LEAK. Data: 0 
+   Windows: 
+  1
+  2
+ -> Room id 2.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Air Quality Sensors: 
+  1. ID 13. Sharp Air Quality Sensor 1,2 kWt Japan Purifier. Type: AIR_QUALITY_CHANGE. Data: 100 
+  2. ID 14. Sharp Air Quality Sensor 1,2 kWt Japan Purifier. Type: AIR_QUALITY_CHANGE. Data: 100 
+   Light Sensors: 
+  1. ID 4. IKEA Tradfri Light Sensor 1,8 kWt Sweden Smart Lighting. Type: LIGHT. Data: 1 
+  2. ID 5. IKEA Tradfri Light Sensor 1,8 kWt Sweden Smart Lighting. Type: LIGHT. Data: 1 
+  3. ID 6. IKEA Tradfri Light Sensor 1,8 kWt Sweden Smart Lighting. Type: LIGHT. Data: 1 
+   Motion Sensors: 
+  1. ID 18. Honeywell Motion Sensor 1,8 kWt USA Security. Type: MOTION. Data: 0 
+  2. ID 21. Honeywell Motion Sensor 1,8 kWt USA Security. Type: MOTION. Data: 0 
+   Temperature Sensors: 
+  1. ID 16. Omsk 2 RT Temperature Sensor 2,0 kWt Canada Smart Thermostat. Type: TEMPERATURE. Data: 20 
+  2. ID 17. Omsk 2 RT Temperature Sensor 2,0 kWt Canada Smart Thermostat. Type: TEMPERATURE. Data: 20 
+  3. ID 19. Omsk 2 RT Temperature Sensor 2,0 kWt Canada Smart Thermostat. Type: TEMPERATURE. Data: 20 
+  4. ID 20. Omsk 2 RT Temperature Sensor 2,0 kWt Canada Smart Thermostat. Type: TEMPERATURE. Data: 20 
+   Windows: 
+  1
+  2
+  3
+ -> Room id 3.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Air Quality Sensors: 
+  1. ID 25. Airthings Air Quality Sensor 1,5 kWt Norway Purifier. Type: AIR_QUALITY_CHANGE. Data: 100 
+  2. ID 29. Kraken Air Quality Sensor 1,5 kWt Norway Purifier. Type: AIR_QUALITY_CHANGE. Data: 100 
+  3. ID 33. Lipetsk Air Quality Sensor 1,5 kWt Norway Purifier. Type: AIR_QUALITY_CHANGE. Data: 100 
+   Light Sensors: 
+  1. ID 15. Lutron Light Sensor 1,5 kWt USA Smart Lighting. Type: LIGHT. Data: 1 
+   Motion Sensors: 
+  1. ID 34. Sever20 Motion Sensor 2,3 kWt France Security. Type: MOTION. Data: 0 
+   Smart Energy Meters: 
+  1. ID 22. Efergy Energy Meter 2,2 kWt UK Home Automation. Type: SMART_ENERGY_METER. Data: 100 
+  2. ID 26. Efergy Energy Meter 2,2 kWt UK Home Automation. Type: SMART_ENERGY_METER. Data: 100 
+  3. ID 30. Efergy Energy Meter 2,2 kWt UK Home Automation. Type: SMART_ENERGY_METER. Data: 100 
+   Water Leak Sensors: 
+  1. ID 23. Murmansk 5 HH Leak Sensor 1,4 kWt South Korea Home Security. Type: WATER_LEAK. Data: 0 
+  2. ID 24. Murmansk 5 HH Leak Sensor 1,4 kWt South Korea Home Security. Type: WATER_LEAK. Data: 0 
+  3. ID 27. Murmansk 5 HH Leak Sensor 1,4 kWt South Korea Home Security. Type: WATER_LEAK. Data: 0 
+  4. ID 28. Murmansk 5 HH Leak Sensor 1,4 kWt South Korea Home Security. Type: WATER_LEAK. Data: 0 
+  5. ID 31. Murmansk 5 HH Leak Sensor 1,4 kWt South Korea Home Security. Type: WATER_LEAK. Data: 0 
+  6. ID 32. Murmansk 5 HH Leak Sensor 1,4 kWt South Korea Home Security. Type: WATER_LEAK. Data: 0 
+2) Count rooms: 3.
+   Windows: 
+  1
+ -> Room id 4.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+  2
+  3
+ -> Room id 5.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+ -> Room id 6.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+3) Count rooms: 4.
+   Windows: 
+  1
+  2
+  3
+  4
+  5
+ -> Room id 7.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+ -> Room id 8.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+  2
+ -> Room id 9.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+ -> Room id 10.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+4) Count rooms: 4.
+   Windows: 
+  1
+ -> Room id 11.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+  2
+ -> Room id 12.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+ -> Room id 13.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+  2
+  3
+  4
+ -> Room id 14.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+5) Count rooms: 4.
+   Windows: 
+  1
+ -> Room id 15.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+ -> Room id 16.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+ -> Room id 17.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+  2
+  3
+ -> Room id 18.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+6) Count rooms: 4.
+   Windows: 
+  1
+  2
+ -> Room id 19.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+ -> Room id 20.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+ -> Room id 21.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+  2
+ -> Room id 22.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+7) Count rooms: 4.
+   Windows: 
+  1
+ -> Room id 23.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+ -> Room id 24.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+  2
+  3
+  4
+ -> Room id 25.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+  2
+  3
+ -> Room id 26.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+8) Count rooms: 4.
+   Windows: 
+  1
+ -> Room id 27.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+  2
+ -> Room id 28.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+ -> Room id 29.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+  2
+  3
+  4
+ -> Room id 30.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+9) Count rooms: 4.
+   Windows: 
+  1
+  2
+  3
+ -> Room id 31.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+ -> Room id 32.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+ -> Room id 33.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+  2
+ -> Room id 34.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+10) Count rooms: 4.
+   Windows: 
+  1
+ -> Room id 35.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+ -> Room id 36.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+ -> Room id 37.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+  2
+ -> Room id 38.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+11) Count rooms: 4.
+   Windows: 
+  1
+  2
+  3
+ -> Room id 39.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+ -> Room id 40.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+ -> Room id 41.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+  2
+ -> Room id 42.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+12) Count rooms: 4.
+   Windows: 
+  1
+  2
+  3
+ -> Room id 43.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+ -> Room id 44.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+ -> Room id 45.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+  2
+ -> Room id 46.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+14) Count rooms: 4.
+   Windows: 
+  1
+ -> Room id 47.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+ -> Room id 48.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+ -> Room id 49.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+  2
+ -> Room id 50.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+15) Count rooms: 4.
+   Windows: 
+  1
+  2
+  3
+ -> Room id 51.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+ -> Room id 52.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+ -> Room id 53.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+  2
+ -> Room id 54.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+16) Count rooms: 4.
+ -> Room id 55.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+  2
+  3
+  4
+ -> Room id 56.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+ -> Room id 57.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE
+   Windows: 
+  1
+  2
+  3
+ -> Room id 58.
+   Alarms: 
+  1. ID 1. Bratishka vstavay Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Adler Kofe Machine Barista. State: IDLE
+   Fridges: 
+  1. ID 3. Vladik Ufa DL200 Full No Frost. State: ACTIVE. Current user: Владимир Викторович Тимофеев. Waiting in line: Генри Андреевич Тернер
+  2. ID 5. Vladik Ufa DL200 Full No Frost. State: IDLE
+   Lamps: 
+  1. ID 4. Voentorg 200 kWt. State: IDLE
+  2. ID 6. Voentorg 200 kWt. State: IDLE
+   PCs: 
+  1. ID 7. RosNano Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 8. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 9. Yandex Aqua SPB North Shower. State: IDLE
+  2. ID 11. Yandex Aqua SPB North Shower. State: OFF
+  3. ID 13. Yandex Aqua SPB North Shower. State: IDLE
+   Speakers: 
+  1. ID 10. Yandex Moscow Speaker ver.1.2. State: OFF
+  2. ID 12. Yandex Moscow Speaker ver.1.2. State: OFF
+  3. ID 14. Yandex Moscow Speaker ver.1.2. State: OFF
+   TVs: 
+  1. ID 17. Electronic Russia TV 50 inches. State: IDLE
+  2. ID 20. Electronic Russia TV 50 inches. State: OFF
+   Teapots: 
+  1. ID 15. Electric Nokia. State: OFF
+  2. ID 16. Electric Nokia. State: OFF
+  3. ID 18. Electric Nokia. State: OFF
+  4. ID 19. Electric Nokia. State: OFF
+   Vacuum Cleaners: 
+  1. ID 21. Moskau Vacuum Cleaner. State: IDLE

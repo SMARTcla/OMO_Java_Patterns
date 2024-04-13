@@ -1,0 +1,287 @@
+ Report House Configuration: 
+ 
+ Transports: 
+1. CAR Toyota Land Cruiser Prado 200. Current user: Samuel Luice Jaksson.
+2. CAR Ford Mustang GT. Current user: Misha Arkipov Ivanov Stepanov.
+3. CAR Tesla Model S. Current user: Francis Predator Ngannou.
+4. SKIS Atomic Race 12. Current user: Carl Leon Scuzi Edwards.
+5. SKIS Salomon QST 99. Current user: Franky Edgar. Waiting in line: Daniel Saraikin.
+6. SKIS Volkl Mantra.
+7. BICYCLE Cannondale SuperSix EVO.
+8. BICYCLE Trek Domane SL 6. Current user: Jaksonn Amber Volkanovsky.
+9. MOTORBIKE Harley-Davidson Street Glide Special. Current user: Enthony Smith. Waiting in line: Jorge Masvidal.
+10. MOTORBIKE Yamaha YZF-R1. Current user: Khabib Eagle Nurmagomedov.
+11. SCOOTER Xiaomi Mi Electric Scooter Pro 2.
+12. SCOOTER Segway Ninebot Max G30.
+13. CAR Lexus LX 570. Current user: Freddie Murcury .
+14. CAR Chevrolet Camaro SS. Current user: Ronda Ivashenenko.
+15. CAR Nissan Rogue. Current user: Armani Giorgio.
+16. SKIS Blizzard XC40.
+17. SKIS Fischer RC4 Worldcup GS. Current user: Colby Covington.
+18. SKIS Rossignol Experience 88. Current user: Magomed Ankalaev.
+19. BICYCLE Specialized S-Works Tarmac SL7. Current user: Marcin Cybura Blackhowicz.
+20. BICYCLE Giant TCR Advanced Pro. Current user: Israel Telaviv Adesanya. Waiting in line: Jonhy Walker Hestradez.
+21. MOTORBIKE Ducati Panigale V4 R. Current user: Charles Fourth Karel. Waiting in line: Alex Poatan Pereira.
+22. MOTORBIKE Kawasaki Ninja ZX-10R.
+23. SCOOTER Xiaomi Mi Electric Scooter 3.
+24. SCOOTER Segway Ninebot ES4. Current user: Jakkuzi Melnikov.
+
+ Persons: 
+25. ADULT Stipe Miocic Jones. State: OUTSIDE
+26. ADULT Alex Poatan Pereira. State: WAIT
+27. ADULT Carl Leon Scuzi Edwards. State: OUTSIDE
+28. ADULT Jaksonn Amber Volkanovsky. State: OUTSIDE
+29. ADULT Jakkuzi Melnikov. State: OUTSIDE
+30. ADULT Ronda Ivashenenko. State: OUTSIDE
+31. ADULT Daniel Saraikin. State: WAIT
+32. ADULT Edgar Alan Po. State: OUTSIDE
+33. ADULT Valentin Schev Klaudia Deev. State: OUTSIDE
+34. ADULT Stark Tony Grace. State: OUTSIDE
+35. ADULT Jorge Masvidal. State: WAIT
+36. ADULT Misha Arkipov Ivanov Stepanov. State: OUTSIDE
+37. ADULT Far Houston Burns. State: OUTSIDE
+38. ADULT Nektar Ilon McGregor. State: WAIT
+39. ADULT Far Gustavo Rodriguez. State: OUTSIDE
+40. ADULT Jonhy Walker Hestradez. State: WAIT
+41. ADULT Marcin Cybura Blackhowicz. State: OUTSIDE
+42. ADULT Dustin Porier. State: OUTSIDE
+43. ADULT Logan Sean James Strickland. State: OUTSIDE
+44. ADULT Israel Telaviv Adesanya. State: OUTSIDE
+45. ADULT Khabib Eagle Nurmagomedov. State: OUTSIDE
+46. ADULT Colby Covington. State: OUTSIDE
+47. ADULT Francis Predator Ngannou. State: OUTSIDE
+48. ADULT Enthony Smith. State: OUTSIDE
+49. ADULT Freddie Murcury . State: OUTSIDE
+50. ADULT Magomed Ankalaev. State: OUTSIDE
+51. ADULT Franky Edgar. State: OUTSIDE
+52. ADULT Charles Fourth Karel. State: OUTSIDE
+53. ADULT Armani Giorgio. State: OUTSIDE
+54. ADULT Samuel Luice Jaksson. State: OUTSIDE
+
+ Pets: 
+1. PET Whiskers. State: ACTIVITY
+2. PET Mittens. State: ACTIVITY
+3. PET Shadow. State: ACTIVITY
+4. PET Tiger. State: ACTIVITY
+5. PET Smokey. State: ACTIVITY
+6. PET Buddy. State: ACTIVITY
+7. PET Charlie. State: ACTIVITY
+8. PET Nibbles. State: ACTIVITY
+9. PET Cheeks. State: ACTIVITY
+10. PET Squeaky. State: ACTIVITY
+11. PET Whiskers Jr.. State: ACTIVITY
+12. PET Goldie. State: ACTIVITY
+13. PET Splash. State: ACTIVITY
+14. PET Bubbles. State: ACTIVITY
+15. PET Finn. State: ACTIVITY
+16. PET Fluffy. State: ACTIVITY
+17. PET Simba. State: ACTIVITY
+18. PET Polly. State: ACTIVITY
+ Floors: 
+1) Count rooms: 3.
+   Windows: 
+  1
+ -> Room id 1.
+   PCs: 
+  1. ID 7. Lenovo 295GTX. State: IDLE
+  2. ID 8. Vayo SSD 512 GB 295 GTX. State: IDLE
+  3. ID 9. Sony Pavilion 295GTX. State: IDLE
+  4. ID 10. Sony Pavilion 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 11. PlayStation 4 Ultimate. State: IDLE
+   Showers: 
+  1. ID 12. Japan Aqua Shower. State: IDLE
+   Alarms: 
+  1. ID 1. Sony Bravos 2500. State: ACTIVE. Current user: Dustin Porier. Waiting in line: Nektar Ilon McGregor
+   Coffee Machines: 
+  1. ID 3. Sony 2453 Ras Barista. State: IDLE
+  2. ID 4. Sony RRR Machine Barista. State: IDLE
+   TVs: 
+  1. ID 16. LG TV 50 inches. State: IDLE
+   Vacuum Cleaners: 
+  1. ID 17. Dyson Vacuum Cleaner. State: IDLE
+   Air Quality Sensors: 
+  1. ID 3. Bosch Air Quality Sensor 1,2 kWt UK Purifier. Type: AIR_QUALITY_CHANGE. Data: 100 
+   Light Sensors: 
+  1. ID 1. Bosch Hue Light Sensor 1,5 kWt Japan For Lighting. Type: LIGHT. Data: 1 
+   Motion Sensors: 
+  1. ID 2. Siemens Motion Sensor 2,0 kWt China Smart Home. Type: MOTION. Data: 0 
+  2. ID 8. Siemens Motion Sensor 2,0 kWt China Smart Home. Type: MOTION. Data: 0 
+  3. ID 11. Bosch Motion Sensor 1,7 kWt Germany Security. Type: MOTION. Data: 0 
+   Temperature Sensors: 
+  1. ID 10. Siemens Temperature Sensor 2,5 kWt USA Smart Thermostat. Type: TEMPERATURE. Data: 20 
+   Water Leak Sensors: 
+  1. ID 12. Siemens Leak Sensor 1,3 kWt Poland Home Security. Type: WATER_LEAK. Data: 0 
+   Windows: 
+  1
+  2
+ -> Room id 2.
+   Lamps: 
+  1. ID 6. Phillips 200 kWt. State: IDLE
+   Fridges: 
+  1. ID 5. Sony DL200 Full No Frost. State: ACTIVE. Current user: Edgar Alan Po
+   Air Quality Sensors: 
+  1. ID 13. Bosch Air Quality Sensor 1,2 kWt Japan Purifier. Type: AIR_QUALITY_CHANGE. Data: 100 
+  2. ID 14. Bosch Air Quality Sensor 1,2 kWt Japan Purifier. Type: AIR_QUALITY_CHANGE. Data: 100 
+   Light Sensors: 
+  1. ID 4. Bosch Tradfri Light Sensor 1,8 kWt Sweden Smart Lighting. Type: LIGHT. Data: 1 
+  2. ID 5. Bosch Tradfri Light Sensor 1,8 kWt Sweden Smart Lighting. Type: LIGHT. Data: 1 
+  3. ID 6. Bosch Tradfri Light Sensor 1,8 kWt Sweden Smart Lighting. Type: LIGHT. Data: 1 
+   Motion Sensors: 
+  1. ID 7. Siemens Motion Sensor 2,0 kWt China Smart Home. Type: MOTION. Data: 0 
+  2. ID 18. Siemens Motion Sensor 1,8 kWt USA Security. Type: MOTION. Data: 0 
+   Temperature Sensors: 
+  1. ID 16. Bosch Temperature Sensor 2,0 kWt Canada Smart Thermostat. Type: TEMPERATURE. Data: 20 
+  2. ID 17. Bosch Temperature Sensor 2,0 kWt Canada Smart Thermostat. Type: TEMPERATURE. Data: 20 
+   Windows: 
+  1
+  2
+  3
+ -> Room id 3.
+   Coffee Machines: 
+  1. ID 2. Sony Cof Machine Barista. State: IDLE
+   Teapots: 
+  1. ID 14. Electric Nokia. State: OFF
+  2. ID 15. Electric Nokia. State: OFF
+   Air Quality Sensors: 
+  1. ID 22. Siemens Air Quality Sensor 1,5 kWt Norway Purifier. Type: AIR_QUALITY_CHANGE. Data: 100 
+   Light Sensors: 
+  1. ID 15. Siemens Light Sensor 1,5 kWt USA Smart Lighting. Type: LIGHT. Data: 1 
+   Motion Sensors: 
+  1. ID 23. Siemens Motion Sensor 2,3 kWt France Security. Type: MOTION. Data: 0 
+   Smart Energy Meters: 
+  1. ID 19. Siemens Energy Meter 2,2 kWt UK Home Automation. Type: SMART_ENERGY_METER. Data: 100 
+   Water Leak Sensors: 
+  1. ID 20. Siemens Leak Sensor 1,4 kWt South Korea Home Security. Type: WATER_LEAK. Data: 0 
+  2. ID 21. Siemens Leak Sensor 1,4 kWt South Korea Home Security. Type: WATER_LEAK. Data: 0 
+2) Count rooms: 3.
+   Windows: 
+  1
+ -> Room id 4.
+   Smart Energy Meters: 
+  1. ID 9. Siemens Energy Meter 3,0 kWt Germany Home Automation. Type: SMART_ENERGY_METER. Data: 100 
+   Windows: 
+  1
+  2
+ -> Room id 5.
+ -> Room id 6.
+3) Count rooms: 4.
+   Windows: 
+  1
+  2
+  3
+  4
+  5
+ -> Room id 7.
+ -> Room id 8.
+   Windows: 
+  1
+  2
+ -> Room id 9.
+   Windows: 
+  1
+ -> Room id 10.
+4) Count rooms: 4.
+   Windows: 
+  1
+  2
+  3
+ -> Room id 11.
+   Windows: 
+  1
+  2
+ -> Room id 12.
+   Windows: 
+  1
+ -> Room id 13.
+   Windows: 
+  1
+  2
+  3
+  4
+ -> Room id 14.
+5) Count rooms: 4.
+ -> Room id 15.
+   Windows: 
+  1
+ -> Room id 16.
+ -> Room id 17.
+   Windows: 
+  1
+  2
+  3
+ -> Room id 18.
+6) Count rooms: 4.
+   Windows: 
+  1
+  2
+ -> Room id 19.
+   Windows: 
+  1
+ -> Room id 20.
+ -> Room id 21.
+   Windows: 
+  1
+  2
+ -> Room id 22.
+7) Count rooms: 4.
+   Windows: 
+  1
+  2
+  3
+  4
+ -> Room id 23.
+ -> Room id 24.
+   Windows: 
+  1
+ -> Room id 25.
+   Windows: 
+  1
+  2
+  3
+ -> Room id 26.
+8) Count rooms: 4.
+   Windows: 
+  1
+ -> Room id 27.
+   Windows: 
+  1
+  2
+ -> Room id 28.
+ -> Room id 29.
+   Windows: 
+  1
+  2
+  3
+  4
+ -> Room id 30.
+9) Count rooms: 4.
+   Windows: 
+  1
+  2
+  3
+ -> Room id 31.
+   Windows: 
+  1
+ -> Room id 32.
+ -> Room id 33.
+   Windows: 
+  1
+  2
+ -> Room id 34.
+10) Count rooms: 4.
+ -> Room id 35.
+   Windows: 
+  1
+  2
+  3
+  4
+ -> Room id 36.
+   Windows: 
+  1
+ -> Room id 37.
+   Windows: 
+  1
+  2
+  3
+ -> Room id 38.

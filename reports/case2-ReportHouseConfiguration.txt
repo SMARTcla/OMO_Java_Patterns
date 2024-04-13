@@ -1,0 +1,284 @@
+ Report House Configuration: 
+ 
+ Transports: 
+1. CAR Toyota Land Cruiser Prado 200. Current user: Chloe Taylor.
+2. CAR Ford Mustang GT. Current user: Harper Evans.
+3. CAR Tesla Model S. Current user: Martin Klima.
+4. SKIS Atomic Race 12. Current user: Henry Turner.
+5. BICYCLE Cannondale SuperSix EVO. Current user: Liam White.
+6. BICYCLE Trek Domane SL 6. Current user: Connor Mitchell.
+7. MOTORBIKE Harley-Davidson Street Glide Special.
+8. MOTORBIKE Yamaha YZF-R1. Current user: Logan Rodriguez. Waiting in line: Isabella Martinez.
+9. SCOOTER Xiaomi Mi Electric Scooter Pro 2. Current user: Jiri Prochazka.
+10. SCOOTER Segway Ninebot Max G30. Current user: Jackson Powell. Waiting in line: Lucas Davis.
+11. CAR Lexus LX 570. Current user: Mia Garcia.
+12. CAR Chevrolet Camaro SS. Current user: Caleb Johnson.
+13. CAR Nissan Rogue.
+14. SKIS Blizzard XC40. Current user: Madison Hill.
+15. SKIS Fischer RC4 Worldcup GS.
+16. SKIS Rossignol Experience 88. Current user: Martin Martin.
+17. BICYCLE Specialized S-Works Tarmac SL7. Current user: Jiri Novak.
+18. BICYCLE Giant TCR Advanced Pro. Current user: Michael Jonshon. Waiting in line: Isabel Walker, Vaclav Great, Hannah Brown.
+19. MOTORBIKE Ducati Panigale V4 R. Current user: Sophie Turner.
+20. MOTORBIKE Kawasaki Ninja ZX-10R. Current user: Martin Mudra. Waiting in line: Bruce Lee.
+21. SCOOTER Xiaomi Mi Electric Scooter 3.
+22. SCOOTER Segway Ninebot ES4.
+
+ Persons: 
+23. ADULT Martin Klima. State: OUTSIDE
+24. ADULT Martin Mudra. State: OUTSIDE
+25. ADULT Michael Jonshon. State: OUTSIDE
+26. ADULT Jiri Prochazka. State: OUTSIDE
+27. ADULT Jiri Novak. State: OUTSIDE
+28. ADULT Martin Martin. State: OUTSIDE
+29. ADULT Vaclav Great. State: WAIT
+30. CHILD Andrew Carnegie. State: OUTSIDE
+31. ADULT Ethan Moore. State: OUTSIDE
+32. ADULT Isabella Martinez. State: WAIT
+33. ADULT Liam White. State: OUTSIDE
+34. ADULT Emma Harris. State: OUTSIDE
+35. ADULT Bruce Lee. State: WAIT
+36. ADULT Mia Garcia. State: OUTSIDE
+37. ADULT Logan Rodriguez. State: OUTSIDE
+38. ADULT Sophie Turner. State: OUTSIDE
+39. ADULT Caleb Johnson. State: OUTSIDE
+40. ADULT Grace Parker. State: OUTSIDE
+41. ADULT Connor Mitchell. State: OUTSIDE
+42. ADULT Hannah Brown. State: WAIT
+43. ADULT Lucas Davis. State: WAIT
+44. ADULT Isabel Walker. State: WAIT
+45. ADULT Elijah Foster. State: OUTSIDE
+46. ADULT Avery Smith. State: OUTSIDE
+47. ADULT Chloe Taylor. State: OUTSIDE
+48. ADULT Zachary White. State: OUTSIDE
+49. ADULT Madison Hill. State: OUTSIDE
+50. ADULT Jackson Powell. State: OUTSIDE
+51. ADULT Harper Evans. State: OUTSIDE
+52. ADULT Henry Turner. State: OUTSIDE
+
+ Pets: 
+1. PET Whiskers. State: ACTIVITY
+2. PET Mittens. State: ACTIVITY
+3. PET Shadow. State: ACTIVITY
+4. PET Tiger. State: ACTIVITY
+5. PET Smokey. State: ACTIVITY
+6. PET Buddy. State: ACTIVITY
+7. PET Charlie. State: ACTIVITY
+8. PET Nibbles. State: ACTIVITY
+9. PET Whiskers Jr.. State: ACTIVITY
+10. PET Goldie. State: ACTIVITY
+11. PET Fluffy. State: ACTIVITY
+12. PET Simba. State: ACTIVITY
+13. PET Polly. State: ACTIVITY
+ Floors: 
+1) Count rooms: 3.
+   Windows: 
+  1
+ -> Room id 1.
+   PCs: 
+  1. ID 11. HP Pavilion 295GTX. State: IDLE
+  2. ID 12. Macbook Air Pro 2020. State: IDLE
+   Showers: 
+  1. ID 15. Aqua Shower. State: IDLE
+   Alarms: 
+  1. ID 1. Wake up Bro. State: IDLE
+   Coffee Machines: 
+  1. ID 2. Tchibo Machine Barista. State: ACTIVE. Current user: Zachary White
+   Fridges: 
+  1. ID 3. Samsung DL200 Full No Frost. State: IDLE
+  2. ID 4. Indesit XXL 500 kWt. State: IDLE
+  3. ID 5. Indesit USA 2000 LW. State: OFF
+  4. ID 6. Indesit USA 2000 LW. State: OFF
+  5. ID 7. Camaru Usman 500 Nightmare. State: OFF
+  6. ID 8. Camaru Usman 500 Nightmare. State: IDLE
+  7. ID 9. Camaru Usman 500 Nightmare. State: ACTIVE. Current user: Ethan Moore
+   TVs: 
+  1. ID 20. Samsung AMOLED 90 inches. State: IDLE
+  2. ID 21. LG TV 50 inches. State: IDLE
+   Vacuum Cleaners: 
+  1. ID 22. Dyson Model 2020. State: IDLE
+  2. ID 23. LG VC made in China. State: IDLE
+  3. ID 24. Dyson Vacuum Cleaner. State: IDLE
+   Air Quality Sensors: 
+  1. ID 3. Dyson Air Quality Sensor 1,2 kWt UK Purifier. Type: AIR_QUALITY_CHANGE. Data: 100 
+   Light Sensors: 
+  1. ID 1. Philips Hue Light Sensor 1,5 kWt Japan For Lighting. Type: LIGHT. Data: 1 
+   Motion Sensors: 
+  1. ID 2. Xiaomi Motion Sensor 2,0 kWt China Smart Home. Type: MOTION. Data: 0 
+  2. ID 9. Bosch Motion Sensor 1,7 kWt Germany Security. Type: MOTION. Data: 0 
+   Smart Energy Meters: 
+  1. ID 7. Siemens Energy Meter 3,0 kWt Germany Home Automation. Type: SMART_ENERGY_METER. Data: 100 
+   Temperature Sensors: 
+  1. ID 8. Nest Temperature Sensor 2,5 kWt USA Smart Thermostat. Type: TEMPERATURE. Data: 20 
+   Water Leak Sensors: 
+  1. ID 10. Fibaro Leak Sensor 1,3 kWt Poland Home Security. Type: WATER_LEAK. Data: 0 
+   Windows: 
+  1
+  2
+ -> Room id 2.
+   Lamps: 
+  1. ID 10. Phillips 200 kWt. State: IDLE
+   Air Quality Sensors: 
+  1. ID 11. Sharp Air Quality Sensor 1,2 kWt Japan Purifier. Type: AIR_QUALITY_CHANGE. Data: 100 
+  2. ID 12. Sharp Air Quality Sensor 1,2 kWt Japan Purifier. Type: AIR_QUALITY_CHANGE. Data: 100 
+   Light Sensors: 
+  1. ID 4. IKEA Tradfri Light Sensor 1,8 kWt Sweden Smart Lighting. Type: LIGHT. Data: 1 
+  2. ID 5. IKEA Tradfri Light Sensor 1,8 kWt Sweden Smart Lighting. Type: LIGHT. Data: 1 
+  3. ID 6. IKEA Tradfri Light Sensor 1,8 kWt Sweden Smart Lighting. Type: LIGHT. Data: 1 
+   Motion Sensors: 
+  1. ID 16. Honeywell Motion Sensor 1,8 kWt USA Security. Type: MOTION. Data: 0 
+   Temperature Sensors: 
+  1. ID 14. Ecobee Temperature Sensor 2,0 kWt Canada Smart Thermostat. Type: TEMPERATURE. Data: 20 
+  2. ID 15. Ecobee Temperature Sensor 2,0 kWt Canada Smart Thermostat. Type: TEMPERATURE. Data: 20 
+   Windows: 
+  1
+  2
+  3
+ -> Room id 3.
+   Teapots: 
+  1. ID 18. Electric Nokia. State: OFF
+  2. ID 19. Electric Nokia. State: OFF
+   Air Quality Sensors: 
+  1. ID 20. Airthings Air Quality Sensor 1,5 kWt Norway Purifier. Type: AIR_QUALITY_CHANGE. Data: 100 
+   Light Sensors: 
+  1. ID 13. Lutron Light Sensor 1,5 kWt USA Smart Lighting. Type: LIGHT. Data: 1 
+   Motion Sensors: 
+  1. ID 21. Netatmo Motion Sensor 2,3 kWt France Security. Type: MOTION. Data: 0 
+   Smart Energy Meters: 
+  1. ID 17. Efergy Energy Meter 2,2 kWt UK Home Automation. Type: SMART_ENERGY_METER. Data: 100 
+   Water Leak Sensors: 
+  1. ID 18. Samsung Leak Sensor 1,4 kWt South Korea Home Security. Type: WATER_LEAK. Data: 0 
+  2. ID 19. Samsung Leak Sensor 1,4 kWt South Korea Home Security. Type: WATER_LEAK. Data: 0 
+2) Count rooms: 3.
+   Windows: 
+  1
+ -> Room id 4.
+   PCs: 
+  1. ID 13. LG Platinum Version 15-OLED 500-SSD. State: IDLE
+   Play Stations: 
+  1. ID 14. PlayStation 4 Ultimate. State: IDLE
+   Windows: 
+  1
+  2
+ -> Room id 5.
+ -> Room id 6.
+3) Count rooms: 4.
+   Windows: 
+  1
+  2
+  3
+  4
+  5
+ -> Room id 7.
+ -> Room id 8.
+   Windows: 
+  1
+  2
+ -> Room id 9.
+   Windows: 
+  1
+ -> Room id 10.
+4) Count rooms: 4.
+   Windows: 
+  1
+  2
+  3
+ -> Room id 11.
+   Windows: 
+  1
+  2
+ -> Room id 12.
+   Windows: 
+  1
+ -> Room id 13.
+   Windows: 
+  1
+  2
+  3
+  4
+ -> Room id 14.
+5) Count rooms: 4.
+ -> Room id 15.
+   Windows: 
+  1
+ -> Room id 16.
+ -> Room id 17.
+   Windows: 
+  1
+  2
+  3
+ -> Room id 18.
+6) Count rooms: 4.
+   Windows: 
+  1
+  2
+ -> Room id 19.
+   Windows: 
+  1
+ -> Room id 20.
+ -> Room id 21.
+   Windows: 
+  1
+  2
+ -> Room id 22.
+7) Count rooms: 4.
+   Windows: 
+  1
+  2
+  3
+  4
+ -> Room id 23.
+ -> Room id 24.
+   Windows: 
+  1
+ -> Room id 25.
+   Windows: 
+  1
+  2
+  3
+ -> Room id 26.
+8) Count rooms: 4.
+   Windows: 
+  1
+ -> Room id 27.
+   Windows: 
+  1
+  2
+ -> Room id 28.
+ -> Room id 29.
+   Windows: 
+  1
+  2
+  3
+  4
+ -> Room id 30.
+9) Count rooms: 4.
+   Windows: 
+  1
+  2
+  3
+ -> Room id 31.
+   Windows: 
+  1
+ -> Room id 32.
+ -> Room id 33.
+   Windows: 
+  1
+  2
+ -> Room id 34.
+10) Count rooms: 4.
+ -> Room id 35.
+   Windows: 
+  1
+  2
+  3
+  4
+ -> Room id 36.
+   Windows: 
+  1
+ -> Room id 37.
+   Windows: 
+  1
+  2
+  3
+ -> Room id 38.

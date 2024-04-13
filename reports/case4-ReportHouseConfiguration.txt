@@ -1,0 +1,322 @@
+ Report House Configuration: 
+ 
+ Transports: 
+1. CAR BMW 1-Series. Current user: Marco van Bommen.
+2. CAR BMW 2-Series. Current user: Kingsli Koman.
+3. CAR BMW 3-Series. Current user: Michael Ballack.
+4. CAR BMW 4-Series. Current user: Leon Goretska.
+5. CAR BMW 5-Series.
+6. CAR BMW 6-Series.
+7. CAR BMW 7-Series.
+8. CAR BMW X1.
+9. CAR BMW X2.
+10. CAR BMW X3.
+11. CAR BMW X4.
+12. CAR BMW X5.
+13. CAR BMW X6.
+14. CAR BMW Z4.
+15. CAR BMW M.
+16. SKIS Bayerische Motoren Werke Sport. Current user: Joshua Kimich.
+17. BICYCLE Bayerische Motoren Werke Motorrad AG. Current user: Lukas Podolski. Waiting in line: Timo Werner.
+18. BICYCLE Bayerische Motoren Werke Motorrad R20. Current user: Leroy Sane. Waiting in line: Toni Kroos, Jurgen Klopp, Thomas Mueller, David Alaba, Manuel Neuer.
+19. CAR Bayerische Motoren Werke AG 2000.
+20. CAR BMW 5-Series Coupe.
+21. SCOOTER BMW Scooter Pro 2. Current user: Mats Hummels.
+22. SCOOTER BMW Max G30. Current user: Frank Riberi. Waiting in line: Miroslav Klose.
+23. CAR BMW 1-Series Coupe.
+24. CAR BMW 3-Series G20.
+25. CAR BMW 3-Series F30.
+26. CAR BMW 3-Series F31.
+27. CAR BMW 3-Series F34.
+28. CAR BMW E90.
+29. CAR BMW 3-Series E91.
+30. CAR BMW 3-Series E93.
+31. CAR BMW 3-Series E46.
+32. MOTORBIKE BMW ZX-10R. Current user: Jens Lemman. Waiting in line: Philip Lahm, Sven Ulreichr.
+33. SCOOTER BMW Electric Scooter 3. Current user: Jann Sommer.
+34. SCOOTER BMW Ninebot ES4. Current user: Sebastian Schweinstiger.
+
+ Persons: 
+35. CHILD Oliver Kahn. State: OUTSIDE
+36. ADULT Kingsli Koman. State: OUTSIDE
+37. ADULT Leon Goretska. State: OUTSIDE
+38. ADULT Leroy Sane. State: OUTSIDE
+39. ADULT Sven Ulreichr. State: WAIT
+40. ADULT Joshua Kimich. State: OUTSIDE
+41. ADULT Jann Sommer. State: OUTSIDE
+42. CHILD Marco van Bommen. State: OUTSIDE
+43. ADULT Jurgen Klopp. State: WAIT
+44. ADULT Mario Goetze. State: WAIT
+45. ADULT Jerom Boateng. State: OUTSIDE
+46. ADULT Jens Lemman. State: OUTSIDE
+47. ADULT Lukas Podolski. State: OUTSIDE
+48. ADULT Miroslav Klose. State: WAIT
+49. ADULT Michael Ballack. State: OUTSIDE
+50. ADULT Mesut Oezil. State: OUTSIDE
+51. ADULT Ilkaj Gundogan. State: OUTSIDE
+52. ADULT Timo Werner. State: WAIT
+53. ADULT Mats Hummels. State: OUTSIDE
+54. ADULT Marco Reus. State: WAIT
+55. ADULT Frank Riberi. State: OUTSIDE
+56. ADULT Arijen Robben. State: OUTSIDE
+57. ADULT David Alaba. State: WAIT
+58. ADULT Thomas Mueller. State: WAIT
+59. ADULT Gerd Mueller. State: WAIT
+60. ADULT Philip Lahm. State: WAIT
+61. ADULT Toni Kroos. State: WAIT
+62. ADULT Manuel Neuer. State: WAIT
+63. ADULT Robert Lewndowski. State: OUTSIDE
+64. ADULT Sebastian Schweinstiger. State: OUTSIDE
+
+ Pets: 
+1. PET Lilly. State: ACTIVITY
+2. PET Lucy. State: ACTIVITY
+3. PET Rocky. State: ACTIVITY
+4. PET Tiger. State: ACTIVITY
+5. PET Sammy. State: ACTIVITY
+6. PET Adolf. State: ACTIVITY
+7. PET Findus. State: ACTIVITY
+8. PET Charlie. State: ACTIVITY
+9. PET Darius. State: ACTIVITY
+10. PET Max. State: ACTIVITY
+11. PET Balu. State: ACTIVITY
+12. PET Minka. State: ACTIVITY
+13. PET Mia. State: ACTIVITY
+14. PET Nala. State: ACTIVITY
+15. PET Mimi. State: ACTIVITY
+16. PET Maja. State: ACTIVITY
+17. PET Goldie. State: ACTIVITY
+18. PET Bella. State: ACTIVITY
+19. PET Mila. State: ACTIVITY
+20. PET Leo. State: ACTIVITY
+21. PET Felix. State: ACTIVITY
+22. PET Pumba. State: ACTIVITY
+23. PET Timon. State: ACTIVITY
+24. PET Charly. State: ACTIVITY
+ Floors: 
+1) Count rooms: 3.
+   Windows: 
+  1
+ -> Room id 1.
+   Lamps: 
+  1. ID 9. DEU Phillips 220 kWt. State: IDLE
+   PCs: 
+  1. ID 10. HP Neuer Srtrasse 295GTX. State: IDLE
+   Play Stations: 
+  1. ID 11. PlayStation Dortmund. State: OFF
+  2. ID 12. Strasbourg PlayStation EXXX29. State: IDLE
+  3. ID 13. PlayStation Spielen Wielen. State: IDLE
+   Showers: 
+  1. ID 14. Aqua Platz Shower. State: IDLE
+  2. ID 15. Kann ich deine nummer haben. State: OFF
+  3. ID 16. Ja du kannst, genau, naturlich. State: OFF
+   Alarms: 
+  1. ID 1. Alles ist gute Capital Bra. State: ACTIVE. Current user: Sven Ulreichr
+  2. ID 2. Das ist nicht deine Idea. State: IDLE
+  3. ID 3. Guten Morgen Bro und Guten Tag. State: ACTIVE. Current user: Sebastian Schweinstiger. Waiting in line: Mario Goetze, Gerd Mueller
+   Coffee Machines: 
+  1. ID 4. Maintz Machine Barista. State: IDLE
+  2. ID 5. Frankfurten Machine Barista LUX. State: IDLE
+   Fridges: 
+  1. ID 6. Bosch DDL200 Full No Frost. State: IDLE
+  2. ID 7. Hyuosch DDL200 Full No Frost. State: ACTIVE. Current user: Arijen Robben. Waiting in line: Marco Reus
+  3. ID 8. Erfurt Sebastian DDL200 Full No Frost. State: IDLE
+   TVs: 
+  1. ID 24. Bayern TV 50 inches. State: OFF
+  2. ID 25. Hamburg TV 50 inches Economy. State: IDLE
+  3. ID 26. Essen TV 100 inches Premium. State: IDLE
+  4. ID 28. Padeborn aus Deutscthland TV 50 inches. State: IDLE
+   Vacuum Cleaners: 
+  1. ID 29. Berliner Vacuum Cleaner. State: IDLE
+   Air Quality Sensors: 
+  1. ID 3. Dyson Air Quality Sensor 1,2 kWt UK Purifier. Type: AIR_QUALITY_CHANGE. Data: 100 
+   Light Sensors: 
+  1. ID 1. Philips Hue Light Sensor 1,5 kWt Japan For Lighting. Type: LIGHT. Data: 1 
+   Motion Sensors: 
+  1. ID 2. Xiaomi Motion Sensor 2,0 kWt China Smart Home. Type: MOTION. Data: 0 
+  2. ID 9. Bosch Motion Sensor 1,7 kWt Germany Security. Type: MOTION. Data: 0 
+   Smart Energy Meters: 
+  1. ID 7. Siemens Energy Meter 3,0 kWt Germany Home Automation. Type: SMART_ENERGY_METER. Data: 100 
+   Temperature Sensors: 
+  1. ID 8. Nest Temperature Sensor 2,5 kWt USA Smart Thermostat. Type: TEMPERATURE. Data: 20 
+   Water Leak Sensors: 
+  1. ID 10. Fibaro Leak Sensor 1,3 kWt Poland Home Security. Type: WATER_LEAK. Data: 0 
+ -> Room id 2.
+   Air Quality Sensors: 
+  1. ID 11. Sharp Air Quality Sensor 1,2 kWt Japan Purifier. Type: AIR_QUALITY_CHANGE. Data: 100 
+  2. ID 12. Sharp Air Quality Sensor 1,2 kWt Japan Purifier. Type: AIR_QUALITY_CHANGE. Data: 100 
+   Light Sensors: 
+  1. ID 4. IKEA Tradfri Light Sensor 1,8 kWt Sweden Smart Lighting. Type: LIGHT. Data: 1 
+  2. ID 5. IKEA Tradfri Light Sensor 1,8 kWt Sweden Smart Lighting. Type: LIGHT. Data: 1 
+  3. ID 6. IKEA Tradfri Light Sensor 1,8 kWt Sweden Smart Lighting. Type: LIGHT. Data: 1 
+   Motion Sensors: 
+  1. ID 16. Honeywell Motion Sensor 1,8 kWt USA Security. Type: MOTION. Data: 0 
+   Temperature Sensors: 
+  1. ID 14. Ecobee Temperature Sensor 2,0 kWt Canada Smart Thermostat. Type: TEMPERATURE. Data: 20 
+  2. ID 15. Ecobee Temperature Sensor 2,0 kWt Canada Smart Thermostat. Type: TEMPERATURE. Data: 20 
+   Windows: 
+  1
+  2
+  3
+ -> Room id 3.
+   Teapots: 
+  1. ID 20. Electric Berliner pot. State: OFF
+  2. ID 21. Electric Berliner pot. State: OFF
+  3. ID 22. Electric pot isch liebe dich. State: OFF
+  4. ID 23. Electric pot isch liebe dich. State: OFF
+   Air Quality Sensors: 
+  1. ID 20. Airthings Air Quality Sensor 1,5 kWt Norway Purifier. Type: AIR_QUALITY_CHANGE. Data: 100 
+   Light Sensors: 
+  1. ID 13. Lutron Light Sensor 1,5 kWt USA Smart Lighting. Type: LIGHT. Data: 1 
+   Motion Sensors: 
+  1. ID 21. Netatmo Motion Sensor 2,3 kWt France Security. Type: MOTION. Data: 0 
+   Smart Energy Meters: 
+  1. ID 17. Efergy Energy Meter 2,2 kWt UK Home Automation. Type: SMART_ENERGY_METER. Data: 100 
+   Water Leak Sensors: 
+  1. ID 18. Samsung Leak Sensor 1,4 kWt South Korea Home Security. Type: WATER_LEAK. Data: 0 
+  2. ID 19. Samsung Leak Sensor 1,4 kWt South Korea Home Security. Type: WATER_LEAK. Data: 0 
+2) Count rooms: 3.
+   Windows: 
+  1
+ -> Room id 4.
+   Windows: 
+  1
+  2
+ -> Room id 5.
+   TVs: 
+  1. ID 27. Marburg TV 120 inches Lux. State: OFF
+ -> Room id 6.
+3) Count rooms: 4.
+   Windows: 
+  1
+ -> Room id 7.
+ -> Room id 8.
+   Windows: 
+  1
+  2
+ -> Room id 9.
+   Windows: 
+  1
+ -> Room id 10.
+4) Count rooms: 4.
+   Windows: 
+  1
+  2
+  3
+ -> Room id 11.
+   Windows: 
+  1
+  2
+ -> Room id 12.
+ -> Room id 13.
+   Windows: 
+  1
+ -> Room id 14.
+5) Count rooms: 4.
+   Windows: 
+  1
+ -> Room id 15.
+   Windows: 
+  1
+  2
+  3
+  4
+ -> Room id 16.
+ -> Room id 17.
+   Windows: 
+  1
+  2
+  3
+ -> Room id 18.
+6) Count rooms: 4.
+   Windows: 
+  1
+  2
+ -> Room id 19.
+   Windows: 
+  1
+  2
+ -> Room id 20.
+ -> Room id 21.
+   Windows: 
+  1
+  2
+ -> Room id 22.
+7) Count rooms: 4.
+   Windows: 
+  1
+ -> Room id 23.
+   Windows: 
+  1
+  2
+  3
+  4
+ -> Room id 24.
+   Windows: 
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+ -> Room id 25.
+   Windows: 
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+ -> Room id 26.
+8) Count rooms: 4.
+   Windows: 
+  1
+ -> Room id 27.
+   Windows: 
+  1
+  2
+  3
+  4
+ -> Room id 28.
+ -> Room id 29.
+   Windows: 
+  1
+  2
+  3
+  4
+ -> Room id 30.
+9) Count rooms: 4.
+   Windows: 
+  1
+  2
+ -> Room id 31.
+ -> Room id 32.
+ -> Room id 33.
+   Windows: 
+  1
+  2
+  3
+ -> Room id 34.
+10) Count rooms: 4.
+ -> Room id 35.
+   Windows: 
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ -> Room id 36.
+   Windows: 
+  1
+ -> Room id 37.
+   Windows: 
+  1
+ -> Room id 38.

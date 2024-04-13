@@ -1,0 +1,378 @@
+ Report Event: 
+ 
+ Event Person: 
+
+  1).   name={Иванов Иван Иванович} 
+ Event{type=ACTION, startTime=2023-03-09T07:22, endTime=2023-03-09T10:10, context='The pet takes a stroll with its owner'}
+ Event{type=ON_DEVICE, startTime=2023-03-09T07:18, endTime=2023-03-09T07:18, context='An inhabitant use an electronic device'}
+ 
+  2).   name={Екатерина Ивановна Смирнова} 
+ Event{type=ACTION, startTime=2023-03-09T07:56, endTime=2023-03-10T03:12, context='The person using automobile'}
+ 
+  3).   name={Михаил Павлович Давыдов} 
+ Event{type=ACTION, startTime=2023-03-09T09:00, endTime=2023-03-10T03:12, context='The person waits for auto'}
+ Event{type=ON_DEVICE, startTime=2023-03-09T07:16, endTime=2023-03-09T07:16, context='An inhabitant use an electronic device'}
+ 
+  4).   name={Ольга Андреевна Борисова} 
+ Event{type=ACTION, startTime=2023-03-09T08:14, endTime=2023-03-10T03:12, context='The person leaves home'}
+ Event{type=WAIT, startTime=2023-03-09T07:56, endTime=2023-03-10T03:12, context='An inhabitant wait for an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T08:00, endTime=2023-03-09T08:00, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T08:00, endTime=2023-03-09T08:14, context='An inhabitant use an electronic device'}
+ 
+  5).   name={Владимир Викторович Тимофеев} 
+ Event{type=ACTION, startTime=2023-03-09T10:58, endTime=2023-03-09T11:38, context='The pet takes a stroll with its owner'}
+ Event{type=ON_DEVICE, startTime=2023-03-09T07:24, endTime=2023-03-09T07:24, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T07:26, endTime=2023-03-09T07:56, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T08:20, endTime=2023-03-10T03:12, context='An inhabitant use an electronic device'}
+ 
+  6).   name={Софья Александровна Смирнова} 
+ Event{type=ACTION, startTime=2023-03-09T07:52, endTime=2023-03-10T03:12, context='The person waits for auto'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T07:20, endTime=2023-03-09T07:52, context='An inhabitant use an electronic device'}
+ 
+  7).   name={Даниил Андреевич Андреев} 
+ Event{type=ACTION, startTime=2023-03-09T07:24, endTime=2023-03-10T03:12, context='The person waits for auto'}
+ 
+  8).   name={Анна Владимировна Васнецова} 
+ Event{type=ACTION, startTime=2023-03-09T08:38, endTime=2023-03-10T03:12, context='The person leaves home'}
+ 
+  9).   name={Ефим Александрович Морозов} 
+ Event{type=ACTION, startTime=2023-03-09T07:48, endTime=2023-03-10T03:12, context='The person using automobile'}
+ 
+  10).   name={Изабелла Александровна Мартынова} 
+ Event{type=ACTION, startTime=2023-03-09T11:50, endTime=2023-03-09T12:10, context='The pet takes a stroll with its owner'}
+ Event{type=WAIT, startTime=2023-03-09T09:12, endTime=2023-03-10T03:12, context='An inhabitant wait for an electronic device'}
+ Event{type=ON_DEVICE, startTime=2023-03-09T11:36, endTime=2023-03-09T11:36, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T10:44, endTime=2023-03-09T11:36, context='An inhabitant use an electronic device'}
+ 
+  11).   name={Лиам Викторович Белый} 
+ Event{type=ACTION, startTime=2023-03-09T07:44, endTime=2023-03-10T03:12, context='The person waits for auto'}
+ Event{type=ON_DEVICE, startTime=2023-03-09T07:30, endTime=2023-03-09T07:30, context='An inhabitant use an electronic device'}
+ 
+  12).   name={Екатерина Владимировна Харрис} 
+ Event{type=ACTION, startTime=2023-03-09T09:48, endTime=2023-03-10T03:12, context='The person waits for auto'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T07:40, endTime=2023-03-09T09:48, context='An inhabitant use an electronic device'}
+ 
+  13).   name={Ноа Александрович Ли} 
+ Event{type=ACTION, startTime=2023-03-09T08:00, endTime=2023-03-10T03:12, context='The person using automobile'}
+ Event{type=WAIT, startTime=2023-03-09T07:34, endTime=2023-03-10T03:12, context='An inhabitant wait for an electronic device'}
+ Event{type=ON_DEVICE, startTime=2023-03-09T07:20, endTime=2023-03-09T07:20, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T07:56, endTime=2023-03-09T08:00, context='An inhabitant use an electronic device'}
+ 
+  14).   name={Мия Александровна Гарсия} 
+ Event{type=ACTION, startTime=2023-03-09T08:12, endTime=2023-03-10T03:12, context='The person waits for auto'}
+ 
+  15).   name={Логан Андреевич Родригес} 
+ Event{type=ACTION, startTime=2023-03-09T07:14, endTime=2023-03-10T03:12, context='The person goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T07:50, endTime=2023-03-10T03:12, context='The person using automobile'}
+ Event{type=ON_DEVICE, startTime=2023-03-09T07:32, endTime=2023-03-09T07:32, context='An inhabitant use an electronic device'}
+ Event{type=ON_DEVICE, startTime=2023-03-09T07:40, endTime=2023-03-09T07:40, context='An inhabitant use an electronic device'}
+ 
+  16).   name={София Андреевна Тернер} 
+ Event{type=ACTION, startTime=2023-03-09T07:28, endTime=2023-03-10T03:12, context='The person using automobile'}
+ 
+  17).   name={Калеб Андреевич Джонсон} 
+ Event{type=ACTION, startTime=2023-03-09T08:48, endTime=2023-03-10T03:12, context='The person waits for auto'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T08:06, endTime=2023-03-09T08:48, context='An inhabitant use an electronic device'}
+ 
+  18).   name={Грейс Александровна Паркер} 
+ Event{type=ACTION, startTime=2023-03-09T09:36, endTime=2023-03-10T03:12, context='The person waits for auto'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T09:24, endTime=2023-03-09T09:26, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T09:26, endTime=2023-03-09T09:36, context='An inhabitant use an electronic device'}
+ 
+  19).   name={Коннор Андреевич Митчелл} 
+ Event{type=ACTION, startTime=2023-03-09T07:32, endTime=2023-03-10T03:12, context='The person waits for auto'}
+ 
+  20).   name={Анна Андреевна Браун} 
+ Event{type=ACTION, startTime=2023-03-09T08:40, endTime=2023-03-10T03:12, context='The person waits for auto'}
+ 
+  21).   name={Лукас Павлович Давыдов} 
+ Event{type=ACTION, startTime=2023-03-09T07:38, endTime=2023-03-10T03:12, context='The person using automobile'}
+ 
+  22).   name={Изабелла Александровна Уокер} 
+ Event{type=ACTION, startTime=2023-03-09T07:36, endTime=2023-03-10T03:12, context='The person using automobile'}
+ 
+  23).   name={Илья Александрович Фостер} 
+ Event{type=ACTION, startTime=2023-03-09T08:20, endTime=2023-03-10T03:12, context='The person using automobile'}
+ 
+  24).   name={Аверий Иванович Иванов} 
+ Event{type=ACTION, startTime=2023-03-09T11:02, endTime=2023-03-10T03:12, context='The person leaves home'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T08:12, endTime=2023-03-09T10:04, context='An inhabitant use an electronic device'}
+ 
+  25).   name={Хлоя Викторовна Тимофеева} 
+ Event{type=ACTION, startTime=2023-03-09T07:16, endTime=2023-03-10T03:12, context='The person using automobile'}
+ 
+  26).   name={Захар Викторович Белый} 
+ Event{type=ACTION, startTime=2023-03-09T08:44, endTime=2023-03-10T03:12, context='The person waits for auto'}
+ 
+  27).   name={Мэдисон Андреевна Хилл} 
+ Event{type=ACTION, startTime=2023-03-09T08:10, endTime=2023-03-10T03:12, context='The person leaves home'}
+ Event{type=ON_DEVICE, startTime=2023-03-09T07:22, endTime=2023-03-09T07:22, context='An inhabitant use an electronic device'}
+ Event{type=ON_DEVICE, startTime=2023-03-09T07:44, endTime=2023-03-09T07:44, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T08:08, endTime=2023-03-09T08:10, context='An inhabitant use an electronic device'}
+ 
+  28).   name={Джексон Александрович Пауэлл} 
+ Event{type=ACTION, startTime=2023-03-09T07:20, endTime=2023-03-10T03:12, context='The person using automobile'}
+ Event{type=ON_DEVICE, startTime=2023-03-09T07:16, endTime=2023-03-09T07:16, context='An inhabitant use an electronic device'}
+ 
+  29).   name={Харпер Александровна Иванова} 
+ Event{type=ACTION, startTime=2023-03-09T10:44, endTime=2023-03-10T03:12, context='The person waits for auto'}
+ Event{type=WAIT, startTime=2023-03-09T08:36, endTime=2023-03-10T03:12, context='An inhabitant wait for an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T08:08, endTime=2023-03-09T08:12, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T08:12, endTime=2023-03-09T08:16, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T10:04, endTime=2023-03-09T10:44, context='An inhabitant use an electronic device'}
+ 
+  30).   name={Генри Андреевич Тернер} 
+ Event{type=WAIT, startTime=2023-03-09T09:10, endTime=2023-03-10T03:12, context='An inhabitant wait for an electronic device'}
+ Event{type=ON_DEVICE, startTime=2023-03-09T07:52, endTime=2023-03-09T07:52, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T09:08, endTime=2023-03-09T09:10, context='An inhabitant use an electronic device'}
+  Event Pet: 
+
+  1).  name={Мурзик} 
+ Event{type=ACTION, startTime=2023-03-09T09:14, endTime=2023-03-09T10:50, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T10:50, endTime=2023-03-09T14:50, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T14:50, endTime=2023-03-09T19:06, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T20:58, endTime=2023-03-09T22:10, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T22:10, endTime=2023-03-09T23:50, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-10T00:06, endTime=2023-03-10T00:10, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-10T00:10, endTime=2023-03-10T02:42, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-10T02:42, endTime=2023-03-10T02:58, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-10T02:58, endTime=2023-03-10T03:10, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T19:06, endTime=2023-03-09T20:58, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-09T23:50, endTime=2023-03-10T00:06, context='The pet takes a stroll with its owner'}
+ 
+  2).  name={Барсик} 
+ Event{type=ACTION, startTime=2023-03-09T09:58, endTime=2023-03-09T12:18, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T14:02, endTime=2023-03-09T15:30, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T15:30, endTime=2023-03-09T21:34, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T09:06, endTime=2023-03-09T09:58, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-09T09:06, endTime=2023-03-09T09:58, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-09T12:18, endTime=2023-03-09T14:02, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-09T21:34, endTime=2023-03-09T23:34, context='The pet takes a stroll with its owner'}
+ 
+  3).  name={Шарик} 
+ Event{type=ACTION, startTime=2023-03-09T08:22, endTime=2023-03-09T09:18, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T09:22, endTime=2023-03-09T11:14, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T11:54, endTime=2023-03-09T22:26, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T23:46, endTime=2023-03-10T03:12, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T09:18, endTime=2023-03-09T09:22, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-09T09:18, endTime=2023-03-09T09:22, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-09T11:14, endTime=2023-03-09T11:54, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-09T11:14, endTime=2023-03-09T11:54, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-09T22:26, endTime=2023-03-09T23:46, context='The pet takes a stroll with its owner'}
+ 
+  4).  name={Тузик} 
+ Event{type=ACTION, startTime=2023-03-09T08:10, endTime=2023-03-09T11:46, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T11:46, endTime=2023-03-09T16:10, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T16:10, endTime=2023-03-09T17:58, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T17:58, endTime=2023-03-10T01:10, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-10T01:38, endTime=2023-03-10T02:02, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-10T01:10, endTime=2023-03-10T01:38, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-10T02:02, endTime=2023-03-10T02:26, context='The pet takes a stroll with its owner'}
+ 
+  5).  name={Смоки} 
+ Event{type=ACTION, startTime=2023-03-09T12:50, endTime=2023-03-09T16:22, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-09T16:22, endTime=2023-03-09T19:14, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-09T19:14, endTime=2023-03-09T20:34, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-09T20:34, endTime=2023-03-09T23:26, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-09T23:26, endTime=2023-03-10T01:34, context='The pet takes a stroll with its owner'}
+ 
+  6).  name={Дружок} 
+ Event{type=ACTION, startTime=2023-03-09T07:58, endTime=2023-03-09T10:22, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T12:38, endTime=2023-03-09T16:42, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T16:42, endTime=2023-03-09T18:06, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T07:34, endTime=2023-03-09T07:58, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-09T07:34, endTime=2023-03-09T07:58, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-09T10:22, endTime=2023-03-09T12:38, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-09T10:22, endTime=2023-03-09T12:38, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-09T18:06, endTime=2023-03-10T02:50, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-10T02:50, endTime=2023-03-10T03:12, context='The pet takes a stroll with its owner'}
+ 
+  7).  name={Чарли} 
+ Event{type=ACTION, startTime=2023-03-09T11:38, endTime=2023-03-09T11:42, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T11:42, endTime=2023-03-09T11:50, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T12:10, endTime=2023-03-09T13:58, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T13:58, endTime=2023-03-09T15:42, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T20:26, endTime=2023-03-09T22:02, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T07:22, endTime=2023-03-09T10:10, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-09T10:10, endTime=2023-03-09T10:58, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-09T10:10, endTime=2023-03-09T10:58, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-09T10:58, endTime=2023-03-09T11:38, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-09T11:50, endTime=2023-03-09T12:10, context='The pet takes a stroll with its owner'}
+ Event{type=ACTION, startTime=2023-03-09T15:42, endTime=2023-03-09T20:26, context='The pet takes a stroll with its owner'}
+ 
+  8).  name={Грызунок} 
+ Event{type=ACTION, startTime=2023-03-09T10:38, endTime=2023-03-09T14:22, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T14:22, endTime=2023-03-09T21:30, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T21:30, endTime=2023-03-10T02:46, context='The home pet goes to sleep'}
+ 
+  9).  name={Щёчки} 
+ Event{type=ACTION, startTime=2023-03-09T12:42, endTime=2023-03-09T20:54, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T20:54, endTime=2023-03-10T00:42, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-10T00:42, endTime=2023-03-10T02:06, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-10T02:06, endTime=2023-03-10T03:12, context='The home pet goes to sleep'}
+ 
+  10).  name={Пищалка} 
+ Event{type=ACTION, startTime=2023-03-09T12:22, endTime=2023-03-09T18:34, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T18:34, endTime=2023-03-09T19:34, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T19:34, endTime=2023-03-09T19:50, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T19:50, endTime=2023-03-10T00:50, context='The home pet goes to sleep'}
+ 
+  11).  name={Усач} 
+ 
+  12).  name={Золотко} 
+ Event{type=ACTION, startTime=2023-03-09T12:58, endTime=2023-03-09T15:14, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T15:14, endTime=2023-03-09T15:54, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T15:54, endTime=2023-03-09T21:02, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T21:02, endTime=2023-03-09T21:46, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T21:46, endTime=2023-03-10T00:30, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-10T00:30, endTime=2023-03-10T00:34, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-10T00:34, endTime=2023-03-10T02:18, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-10T02:18, endTime=2023-03-10T03:02, context='The home pet goes to sleep'}
+ 
+  13).  name={Брызги} 
+ Event{type=ACTION, startTime=2023-03-09T07:14, endTime=2023-03-09T08:46, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T08:46, endTime=2023-03-09T16:14, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T16:14, endTime=2023-03-09T19:26, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T19:26, endTime=2023-03-09T21:14, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T21:14, endTime=2023-03-09T22:38, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T22:38, endTime=2023-03-10T00:38, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-10T00:38, endTime=2023-03-10T00:46, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-10T00:46, endTime=2023-03-10T02:38, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-10T02:38, endTime=2023-03-10T02:54, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-10T02:54, endTime=2023-03-10T03:12, context='The home pet goes to sleep'}
+ 
+  14).  name={Пузырь} 
+ Event{type=ACTION, startTime=2023-03-09T09:34, endTime=2023-03-09T13:02, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T13:02, endTime=2023-03-09T13:46, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T13:46, endTime=2023-03-09T17:34, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T17:34, endTime=2023-03-09T17:50, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T17:50, endTime=2023-03-09T18:22, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T18:22, endTime=2023-03-09T18:42, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T18:42, endTime=2023-03-09T19:38, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T19:38, endTime=2023-03-09T21:58, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T21:58, endTime=2023-03-09T22:34, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T22:34, endTime=2023-03-09T22:50, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T22:50, endTime=2023-03-10T01:26, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-10T01:26, endTime=2023-03-10T01:54, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-10T01:54, endTime=2023-03-10T03:12, context='The home pet goes to sleep'}
+ 
+  15).  name={Финн} 
+ Event{type=ACTION, startTime=2023-03-09T07:54, endTime=2023-03-09T09:46, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T09:46, endTime=2023-03-09T11:18, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T11:18, endTime=2023-03-09T14:10, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T14:10, endTime=2023-03-09T15:22, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T15:22, endTime=2023-03-09T17:18, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T17:18, endTime=2023-03-09T20:38, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T20:38, endTime=2023-03-09T23:22, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T23:22, endTime=2023-03-09T23:42, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T23:42, endTime=2023-03-10T01:58, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-10T01:58, endTime=2023-03-10T02:30, context='The home pet goes to sleep'}
+ 
+  16).  name={Пушистик} 
+ Event{type=ACTION, startTime=2023-03-09T11:58, endTime=2023-03-09T12:14, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T12:14, endTime=2023-03-09T13:34, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T13:34, endTime=2023-03-09T13:42, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T13:42, endTime=2023-03-09T15:34, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T15:34, endTime=2023-03-09T16:46, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T16:46, endTime=2023-03-09T17:26, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T17:26, endTime=2023-03-09T18:10, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T18:10, endTime=2023-03-09T20:22, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T20:22, endTime=2023-03-09T20:30, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T20:30, endTime=2023-03-09T23:10, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T23:10, endTime=2023-03-10T03:12, context='The home pet goes to sleep'}
+ 
+  17).  name={Симба} 
+ Event{type=ACTION, startTime=2023-03-09T08:30, endTime=2023-03-09T10:02, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T10:02, endTime=2023-03-09T13:26, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T13:26, endTime=2023-03-09T20:14, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T20:14, endTime=2023-03-09T21:54, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T21:54, endTime=2023-03-10T01:30, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-10T01:30, endTime=2023-03-10T02:34, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-10T02:34, endTime=2023-03-10T03:12, context='The home pet goes to sleep'}
+ 
+  18).  name={Полли} 
+ Event{type=ACTION, startTime=2023-03-09T08:34, endTime=2023-03-09T10:54, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T10:54, endTime=2023-03-09T15:06, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T15:06, endTime=2023-03-09T19:22, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-09T19:22, endTime=2023-03-10T01:06, context='The home pet goes to sleep'}
+ Event{type=ACTION, startTime=2023-03-10T01:06, endTime=2023-03-10T03:06, context='The home pet goes to sleep'}
+ 
+ 
+ Event Devices: 
+
+  1).  cz.cvut.omo.sp.tech.device.devices.Alarm@66d18979
+ Event{type=ON_DEVICE, startTime=2023-03-09T11:36, endTime=2023-03-09T11:36, context='An inhabitant use an electronic device'}
+ 
+  1).  cz.cvut.omo.sp.tech.device.devices.CoffeeMachine@1e66f1f5
+ Event{type=WAIT, startTime=2023-03-09T08:36, endTime=2023-03-10T03:12, context='An inhabitant wait for an electronic device'}
+ Event{type=WAIT, startTime=2023-03-09T09:12, endTime=2023-03-10T03:12, context='An inhabitant wait for an electronic device'}
+ Event{type=ON_DEVICE, startTime=2023-03-09T07:44, endTime=2023-03-09T07:44, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T08:12, endTime=2023-03-09T10:04, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T10:04, endTime=2023-03-09T10:44, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T10:44, endTime=2023-03-09T11:36, context='An inhabitant use an electronic device'}
+ 
+  1).  cz.cvut.omo.sp.tech.device.devices.Fridge@7530ad9c
+ Event{type=WAIT, startTime=2023-03-09T09:10, endTime=2023-03-10T03:12, context='An inhabitant wait for an electronic device'}
+ Event{type=ON_DEVICE, startTime=2023-03-09T07:18, endTime=2023-03-09T07:18, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T07:20, endTime=2023-03-09T07:52, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T08:00, endTime=2023-03-09T08:14, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T08:20, endTime=2023-03-10T03:12, context='An inhabitant use an electronic device'}
+ 
+  2).  cz.cvut.omo.sp.tech.device.devices.Fridge@394df057
+ Event{type=ON_DEVICE, startTime=2023-03-09T07:30, endTime=2023-03-09T07:30, context='An inhabitant use an electronic device'}
+ 
+  1).  cz.cvut.omo.sp.tech.device.devices.Lamp@71e9ddb4
+ Event{type=ON_DEVICE, startTime=2023-03-09T07:40, endTime=2023-03-09T07:40, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T08:12, endTime=2023-03-09T08:16, context='An inhabitant use an electronic device'}
+ 
+  2).  cz.cvut.omo.sp.tech.device.devices.Lamp@4961f6af
+ Event{type=ON_DEVICE, startTime=2023-03-09T07:32, endTime=2023-03-09T07:32, context='An inhabitant use an electronic device'}
+ 
+  1).  cz.cvut.omo.sp.tech.device.devices.PC@65d09a04
+ Event{type=WAIT, startTime=2023-03-09T07:34, endTime=2023-03-10T03:12, context='An inhabitant wait for an electronic device'}
+ Event{type=WAIT, startTime=2023-03-09T07:56, endTime=2023-03-10T03:12, context='An inhabitant wait for an electronic device'}
+ Event{type=ON_DEVICE, startTime=2023-03-09T07:22, endTime=2023-03-09T07:22, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T07:26, endTime=2023-03-09T07:56, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T07:56, endTime=2023-03-09T08:00, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T08:00, endTime=2023-03-09T08:00, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T08:06, endTime=2023-03-09T08:48, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T09:08, endTime=2023-03-09T09:10, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T09:26, endTime=2023-03-09T09:36, context='An inhabitant use an electronic device'}
+ 
+  1).  cz.cvut.omo.sp.tech.device.devices.PlayStation@75db5df9
+ Event{type=ON_DEVICE, startTime=2023-03-09T07:24, endTime=2023-03-09T07:24, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T07:40, endTime=2023-03-09T09:48, context='An inhabitant use an electronic device'}
+ 
+  1).  cz.cvut.omo.sp.tech.device.devices.Shower@1190200a
+ Event{type=ON_DEVICE, startTime=2023-03-09T07:16, endTime=2023-03-09T07:16, context='An inhabitant use an electronic device'}
+ 
+  2).  cz.cvut.omo.sp.tech.device.devices.Shower@399c4be1
+ 
+  3).  cz.cvut.omo.sp.tech.device.devices.Shower@385e9564
+ Event{type=ON_DEVICE, startTime=2023-03-09T07:20, endTime=2023-03-09T07:20, context='An inhabitant use an electronic device'}
+ 
+  1).  cz.cvut.omo.sp.tech.device.devices.Speaker@45b4c3a9
+ 
+  2).  cz.cvut.omo.sp.tech.device.devices.Speaker@291caca8
+ 
+  3).  cz.cvut.omo.sp.tech.device.devices.Speaker@5b94b04d
+ 
+  1).  cz.cvut.omo.sp.tech.device.devices.TV@1f59a598
+ Event{type=ON_DEVICE, startTime=2023-03-09T07:16, endTime=2023-03-09T07:16, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T08:08, endTime=2023-03-09T08:10, context='An inhabitant use an electronic device'}
+ 
+  2).  cz.cvut.omo.sp.tech.device.devices.TV@26b3fd41
+ 
+  1).  cz.cvut.omo.sp.tech.device.devices.Teapot@4c39bec8
+ 
+  2).  cz.cvut.omo.sp.tech.device.devices.Teapot@f79e
+ 
+  3).  cz.cvut.omo.sp.tech.device.devices.Teapot@1e178745
+ 
+  4).  cz.cvut.omo.sp.tech.device.devices.Teapot@192c3f1e
+ 
+  1).  cz.cvut.omo.sp.tech.device.devices.VacuumCleaner@561b6512
+ Event{type=ON_DEVICE, startTime=2023-03-09T07:52, endTime=2023-03-09T07:52, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T08:08, endTime=2023-03-09T08:12, context='An inhabitant use an electronic device'}
+ Event{type=USAGE_DEVICE, startTime=2023-03-09T09:24, endTime=2023-03-09T09:26, context='An inhabitant use an electronic device'}
+ 

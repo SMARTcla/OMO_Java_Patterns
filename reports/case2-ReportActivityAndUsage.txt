@@ -1,0 +1,801 @@
+Report Activity and Usage: 
+
+ Persons activities: 
+  1. ADULT Martin Klima 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 59 hours 2 minutes.
+   Cars: 
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 59 hours 2 minutes.
+   Transport: 
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 0 hours 46 minutes.
+   Devices: cz.cvut.omo.sp.tech.device.devices.CoffeeMachine@6913c1fb 1 times, cz.cvut.omo.sp.tech.device.devices.PC@7530ad9c 1 times,
+   Was waiting in line to use the devices 0 hours 46 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  2. ADULT Martin Mudra 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 59 hours 52 minutes.
+   Cars:  name={Kawasaki Ninja ZX-10R}  1 times,
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 59 hours 52 minutes.
+   Transport:  name={Kawasaki Ninja ZX-10R}  1 times,
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 0 hours 0 minutes.
+   Devices:
+   Was waiting in line to use the devices 0 hours 0 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  3. ADULT Michael Jonshon 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 59 hours 32 minutes.
+   Cars:  name={Giant TCR Advanced Pro}  1 times,
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 59 hours 32 minutes.
+   Transport:  name={Giant TCR Advanced Pro}  1 times,
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 0 hours 0 minutes.
+   Devices:
+   Was waiting in line to use the devices 0 hours 0 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  4. ADULT Jiri Prochazka 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 58 hours 48 minutes.
+   Cars:  name={Xiaomi Mi Electric Scooter Pro 2}  1 times,
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 58 hours 48 minutes.
+   Transport:  name={Xiaomi Mi Electric Scooter Pro 2}  1 times,
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 0 hours 0 minutes.
+   Devices: cz.cvut.omo.sp.tech.device.devices.PC@58a9760d 1 times, cz.cvut.omo.sp.tech.device.devices.CoffeeMachine@6913c1fb 1 times,
+   Was waiting in line to use the devices 0 hours 0 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  5. ADULT Jiri Novak 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 58 hours 44 minutes.
+   Cars:  name={Specialized S-Works Tarmac SL7}  1 times,
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 58 hours 44 minutes.
+   Transport:  name={Specialized S-Works Tarmac SL7}  1 times,
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 0 hours 0 minutes.
+   Devices:
+   Was waiting in line to use the devices 0 hours 0 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  6. ADULT Martin Martin 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 59 hours 0 minutes.
+   Cars:  name={Rossignol Experience 88}  1 times,
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 59 hours 0 minutes.
+   Transport:  name={Rossignol Experience 88}  1 times,
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 0 hours 4 minutes.
+   Devices: cz.cvut.omo.sp.tech.device.devices.PC@7530ad9c 1 times,
+   Was waiting in line to use the devices 0 hours 4 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  7. ADULT Vaclav Great 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 0 hours 0 minutes.
+   Cars: 
+   Was waiting in line to use the car 58 hours 12 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 0 hours 0 minutes.
+   Transport: 
+   Was waiting in line to use the transport 58 hours 12 minutes.
+-> Used device 0 hours 0 minutes.
+   Devices:
+   Was waiting in line to use the devices 0 hours 0 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  8. CHILD Andrew Carnegie 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 0 hours 0 minutes.
+   Cars: 
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 3 hours 32 minutes.
+   Pets:  name={Buddy} 1 times,
+-> Played with pet 0 hours 0 minutes.
+   Pets:  name={Buddy} 1 times,
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 0 hours 0 minutes.
+   Transport: 
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 0 hours 0 minutes.
+   Devices: cz.cvut.omo.sp.tech.device.devices.Shower@5aebe890 1 times,
+   Was waiting in line to use the devices 0 hours 0 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  9. ADULT Ethan Moore 
+-> Slept 59 hours 38 minutes.
+-> Used the car for 0 hours 0 minutes.
+   Cars: 
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 6 hours 16 minutes.
+   Pets:  name={Buddy} 1 times,
+-> Played with pet 0 hours 0 minutes.
+   Pets:  name={Buddy} 1 times,
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 0 hours 0 minutes.
+   Transport: 
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 56 hours 56 minutes.
+   Devices: cz.cvut.omo.sp.tech.device.devices.VacuumCleaner@4c39bec8 1 times, cz.cvut.omo.sp.tech.device.devices.TV@291caca8 1 times, cz.cvut.omo.sp.tech.device.devices.PC@58a9760d 1 times, cz.cvut.omo.sp.tech.device.devices.Fridge@bccb269 1 times, cz.cvut.omo.sp.tech.device.devices.Fridge@3c3d9b6b 1 times,
+   Was waiting in line to use the devices 56 hours 56 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  10. ADULT Isabella Martinez 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 0 hours 0 minutes.
+   Cars: 
+   Was waiting in line to use the car 58 hours 56 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 0 hours 0 minutes.
+   Transport: 
+   Was waiting in line to use the transport 58 hours 56 minutes.
+-> Used device 0 hours 12 minutes.
+   Devices: cz.cvut.omo.sp.tech.device.devices.VacuumCleaner@8c3b9d 1 times, cz.cvut.omo.sp.tech.device.devices.PC@58a9760d 1 times,
+   Was waiting in line to use the devices 0 hours 12 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  11. ADULT Liam White 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 59 hours 36 minutes.
+   Cars:  name={Cannondale SuperSix EVO}  1 times,
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 59 hours 36 minutes.
+   Transport:  name={Cannondale SuperSix EVO}  1 times,
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 0 hours 0 minutes.
+   Devices:
+   Was waiting in line to use the devices 0 hours 0 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  12. ADULT Emma Harris 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 0 hours 0 minutes.
+   Cars: 
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 59 hours 50 minutes.
+-> Used transports 0 hours 0 minutes.
+   Transport: 
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 0 hours 0 minutes.
+   Devices:
+   Was waiting in line to use the devices 0 hours 0 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  13. ADULT Bruce Lee 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 0 hours 0 minutes.
+   Cars: 
+   Was waiting in line to use the car 57 hours 44 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 0 hours 0 minutes.
+   Transport: 
+   Was waiting in line to use the transport 57 hours 44 minutes.
+-> Used device 0 hours 32 minutes.
+   Devices: cz.cvut.omo.sp.tech.device.devices.Lamp@5fbe4146 1 times,
+   Was waiting in line to use the devices 0 hours 32 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  14. ADULT Mia Garcia 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 58 hours 38 minutes.
+   Cars: 
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 58 hours 38 minutes.
+   Transport: 
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 0 hours 0 minutes.
+   Devices:
+   Was waiting in line to use the devices 0 hours 0 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  15. ADULT Logan Rodriguez 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 59 hours 56 minutes.
+   Cars:  name={Yamaha YZF-R1}  1 times,
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 59 hours 56 minutes.
+   Transport:  name={Yamaha YZF-R1}  1 times,
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 0 hours 0 minutes.
+   Devices:
+   Was waiting in line to use the devices 0 hours 0 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  16. ADULT Sophie Turner 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 59 hours 40 minutes.
+   Cars:  name={Ducati Panigale V4 R}  1 times,
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 59 hours 40 minutes.
+   Transport:  name={Ducati Panigale V4 R}  1 times,
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 0 hours 0 minutes.
+   Devices:
+   Was waiting in line to use the devices 0 hours 0 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  17. ADULT Caleb Johnson 
+-> Slept 116 hours 28 minutes.
+-> Used the car for 57 hours 14 minutes.
+   Cars: 
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 57 hours 14 minutes.
+   Transport: 
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 1 hours 22 minutes.
+   Devices: cz.cvut.omo.sp.tech.device.devices.VacuumCleaner@8c3b9d 1 times, cz.cvut.omo.sp.tech.device.devices.PC@4e50c791 1 times, cz.cvut.omo.sp.tech.device.devices.PlayStation@394df057 1 times,
+   Was waiting in line to use the devices 1 hours 22 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  18. ADULT Grace Parker 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 0 hours 0 minutes.
+   Cars: 
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 58 hours 18 minutes.
+-> Used transports 0 hours 0 minutes.
+   Transport: 
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 0 hours 0 minutes.
+   Devices:
+   Was waiting in line to use the devices 0 hours 0 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  19. ADULT Connor Mitchell 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 59 hours 24 minutes.
+   Cars:  name={Trek Domane SL 6}  1 times,
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 59 hours 24 minutes.
+   Transport:  name={Trek Domane SL 6}  1 times,
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 0 hours 0 minutes.
+   Devices: cz.cvut.omo.sp.tech.device.devices.Fridge@158a8276 1 times, cz.cvut.omo.sp.tech.device.devices.PC@7530ad9c 1 times,
+   Was waiting in line to use the devices 0 hours 0 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  20. ADULT Hannah Brown 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 0 hours 0 minutes.
+   Cars: 
+   Was waiting in line to use the car 58 hours 24 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 0 hours 0 minutes.
+   Transport: 
+   Was waiting in line to use the transport 58 hours 24 minutes.
+-> Used device 0 hours 0 minutes.
+   Devices:
+   Was waiting in line to use the devices 0 hours 0 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  21. ADULT Lucas Davis 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 0 hours 0 minutes.
+   Cars: 
+   Was waiting in line to use the car 59 hours 28 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 0 hours 0 minutes.
+   Transport: 
+   Was waiting in line to use the transport 59 hours 28 minutes.
+-> Used device 0 hours 0 minutes.
+   Devices:
+   Was waiting in line to use the devices 0 hours 0 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  22. ADULT Isabel Walker 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 0 hours 0 minutes.
+   Cars: 
+   Was waiting in line to use the car 54 hours 52 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 0 hours 0 minutes.
+   Transport: 
+   Was waiting in line to use the transport 54 hours 52 minutes.
+-> Used device 1 hours 12 minutes.
+   Devices: cz.cvut.omo.sp.tech.device.devices.TV@291caca8 1 times, cz.cvut.omo.sp.tech.device.devices.Fridge@3c3d9b6b 1 times, cz.cvut.omo.sp.tech.device.devices.Alarm@7dc0f706 1 times, cz.cvut.omo.sp.tech.device.devices.CoffeeMachine@6913c1fb 1 times, cz.cvut.omo.sp.tech.device.devices.Lamp@5fbe4146 1 times, cz.cvut.omo.sp.tech.device.devices.PlayStation@394df057 3 times, cz.cvut.omo.sp.tech.device.devices.TV@399c4be1 1 times,
+   Was waiting in line to use the devices 1 hours 12 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  23. ADULT Elijah Foster 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 0 hours 0 minutes.
+   Cars: 
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 59 hours 46 minutes.
+-> Used transports 0 hours 0 minutes.
+   Transport: 
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 0 hours 0 minutes.
+   Devices:
+   Was waiting in line to use the devices 0 hours 0 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  24. ADULT Avery Smith 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 0 hours 0 minutes.
+   Cars: 
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 59 hours 18 minutes.
+-> Used transports 0 hours 0 minutes.
+   Transport: 
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 0 hours 0 minutes.
+   Devices: cz.cvut.omo.sp.tech.device.devices.VacuumCleaner@5b94b04d 1 times,
+   Was waiting in line to use the devices 0 hours 0 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  25. ADULT Chloe Taylor 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 59 hours 54 minutes.
+   Cars: 
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 59 hours 54 minutes.
+   Transport: 
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 0 hours 0 minutes.
+   Devices:
+   Was waiting in line to use the devices 0 hours 0 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  26. ADULT Zachary White 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 0 hours 0 minutes.
+   Cars: 
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 0 hours 44 minutes.
+   Pets:  name={Charlie} 1 times,
+-> Played with pet 0 hours 0 minutes.
+   Pets:  name={Charlie} 1 times,
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 0 hours 0 minutes.
+   Transport: 
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 57 hours 56 minutes.
+   Devices: cz.cvut.omo.sp.tech.device.devices.PC@4e50c791 1 times, cz.cvut.omo.sp.tech.device.devices.Fridge@609cd4d8 1 times, cz.cvut.omo.sp.tech.device.devices.TV@291caca8 1 times, cz.cvut.omo.sp.tech.device.devices.CoffeeMachine@6913c1fb 2 times, cz.cvut.omo.sp.tech.device.devices.VacuumCleaner@5b94b04d 1 times, cz.cvut.omo.sp.tech.device.devices.PlayStation@394df057 1 times, cz.cvut.omo.sp.tech.device.devices.Fridge@158a8276 1 times,
+   Was waiting in line to use the devices 57 hours 56 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  27. ADULT Madison Hill 
+-> Slept 58 hours 10 minutes.
+-> Used the car for 57 hours 40 minutes.
+   Cars:  name={Blizzard XC40}  1 times,
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 57 hours 40 minutes.
+   Transport:  name={Blizzard XC40}  1 times,
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 0 hours 0 minutes.
+   Devices:
+   Was waiting in line to use the devices 0 hours 0 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  28. ADULT Jackson Powell 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 59 hours 48 minutes.
+   Cars:  name={Segway Ninebot Max G30}  1 times,
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 59 hours 48 minutes.
+   Transport:  name={Segway Ninebot Max G30}  1 times,
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 0 hours 0 minutes.
+   Devices:
+   Was waiting in line to use the devices 0 hours 0 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  29. ADULT Harper Evans 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 59 hours 26 minutes.
+   Cars: 
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 59 hours 26 minutes.
+   Transport: 
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 0 hours 0 minutes.
+   Devices:
+   Was waiting in line to use the devices 0 hours 0 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+  30. ADULT Henry Turner 
+-> Slept 0 hours 0 minutes.
+-> Used the car for 59 hours 44 minutes.
+   Cars:  name={Atomic Race 12}  1 times,
+   Was waiting in line to use the car 0 hours 0 minutes.
+-> Walked with pet 0 hours 0 minutes.
+   Pets: 
+-> Played with pet 0 hours 0 minutes.
+   Pets: 
+-> Fed the child 0 hours 0 minutes.
+   Babies:
+-> Played with the babies for 0 hours 0 minutes.
+   Babies:
+-> Walked with babies 0 hours 0 minutes.
+   Babies: 
+-> Was not at home and did not walk with anyone 0 hours 0 minutes.
+-> Used transports 59 hours 44 minutes.
+   Transport:  name={Atomic Race 12}  1 times,
+   Was waiting in line to use the transport 0 hours 0 minutes.
+-> Used device 0 hours 0 minutes.
+   Devices:
+   Was waiting in line to use the devices 0 hours 0 minutes.
+-> Fixed device 0 hours 0 minutes.
+-> Add content to device 0 hours 0 minutes.
+ Pets activities: 
+  1. PET Whiskers 
+-> Played alone 0 hours 0 minutes.
+-> Played with person 0 hours 0 minutes.
+   Persons:
+-> Slept 38 hours 20 minutes.
+-> Use devises 0 hours 0 minutes.
+   Devises:
+  2. PET Mittens 
+-> Played alone 0 hours 0 minutes.
+-> Played with person 0 hours 0 minutes.
+   Persons:
+-> Slept 34 hours 48 minutes.
+-> Use devises 0 hours 0 minutes.
+   Devises:
+  3. PET Shadow 
+-> Played alone 0 hours 0 minutes.
+-> Played with person 0 hours 0 minutes.
+   Persons:
+-> Slept 20 hours 42 minutes.
+-> Use devises 0 hours 0 minutes.
+   Devises:
+  4. PET Tiger 
+-> Played alone 0 hours 0 minutes.
+-> Played with person 0 hours 0 minutes.
+   Persons:
+-> Slept 25 hours 40 minutes.
+-> Use devises 0 hours 0 minutes.
+   Devises:
+  5. PET Smokey 
+-> Played alone 0 hours 0 minutes.
+-> Played with person 0 hours 0 minutes.
+   Persons:
+-> Slept 38 hours 14 minutes.
+-> Use devises 0 hours 0 minutes.
+   Devises:
+  6. PET Buddy 
+-> Walked with person 31 hours 48 minutes.
+   Persons:  name={Andrew Carnegie}  1 times,  name={Ethan Moore}  1 times,
+-> Played alone 0 hours 0 minutes.
+-> Played with person 0 hours 0 minutes.
+   Persons:
+-> Slept 31 hours 48 minutes.
+-> Use devises 0 hours 0 minutes.
+   Devises:
+  7. PET Charlie 
+-> Walked with person 26 hours 16 minutes.
+   Persons:  name={Zachary White}  5 times,  name={Ethan Moore}  2 times,  name={Martin Klima}  2 times,
+-> Played alone 0 hours 0 minutes.
+-> Played with person 0 hours 0 minutes.
+   Persons:
+-> Slept 26 hours 16 minutes.
+-> Use devises 0 hours 0 minutes.
+   Devises:
+  8. PET Nibbles 
+-> Slept 0 hours 0 minutes.
+-> Use devises 0 hours 0 minutes.
+   Devises:
+  9. PET Whiskers Jr. 
+-> Slept 0 hours 0 minutes.
+-> Use devises 0 hours 0 minutes.
+   Devises:
+  10. PET Goldie 
+-> Slept 0 hours 0 minutes.
+-> Use devises 0 hours 0 minutes.
+   Devises:
+  11. PET Fluffy 
+-> Slept 0 hours 0 minutes.
+-> Use devises 0 hours 0 minutes.
+   Devises:
+  12. PET Simba 
+-> Slept 0 hours 0 minutes.
+-> Use devises 0 hours 0 minutes.
+   Devises:
+  13. PET Polly 
+-> Slept 0 hours 0 minutes.
+-> Use devises 0 hours 0 minutes.
+   Devises:

@@ -1,0 +1,13 @@
+# Ignore IntelliJ IDEA project-specific files
+.idea/
+
+# Ignore build output directories
+target/
+
+# Ignore compiled output files
+out/
+
+# Ignore IntelliJ IDEA module files
+*.iml
+
+# Ignore custom report files

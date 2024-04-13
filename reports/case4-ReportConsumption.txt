@@ -1,0 +1,158 @@
+Report House Consumption: 
+
+Energy costs. Devices: 
+
+ Alarms: 
+  1). 
+ALARM with id={1} and name={Alles ist gute Capital Bra}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 5 + 44/ 60 * 5 * 5 + 580/ 60 * 10 * 10 + 387395/ 60 * 5 * 10 = 323814.19
+Total energy consumed 64666.17
+  2). 
+ALARM with id={2} and name={Das ist nicht deine Idea}.
+ Energy: ELECTRIC
+ 580/ 60 * 10 * 5 + 387359/ 60 * 5 * 5 = 161882.92
+Total energy consumed 32328.25
+  3). 
+ALARM with id={3} and name={Guten Morgen Bro und Guten Tag}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 5 + 48/ 60 * 5 * 5 + 580/ 60 * 10 * 10 + 387411/ 60 * 5 * 10 = 323829.16
+Total energy consumed 64669.16
+ 
+ Coffee Machines: 
+  1). 
+COFFEE_MACHINE with id={4} and name={Maintz Machine Barista}.
+ Energy: ELECTRIC
+ 37/ 60 * 10 * 120 + 67/ 60 * 5 * 120 + 39/ 60 * 10 * 240 + 0/ 60 * 5 * 240 + 181/ 60 * 10 * 120 + 0/ 60 * 5 * 120 + 205/ 60 * 10 * 240 + 0/ 60 * 5 * 240 + 580/ 60 * 10 * 120 + 387155/ 60 * 5 * 120 = 3897940.25
+Total energy consumed 777016.00
+  2). 
+COFFEE_MACHINE with id={5} and name={Frankfurten Machine Barista LUX}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 120 + 24/ 60 * 5 * 120 + 0/ 60 * 10 * 240 + 4/ 60 * 5 * 240 + 0/ 60 * 10 * 120 + 28/ 60 * 5 * 120 + 29/ 60 * 10 * 240 + 27/ 60 * 5 * 240 + 0/ 60 * 10 * 120 + 0/ 60 * 5 * 120 + 41/ 60 * 10 * 240 + 0/ 60 * 5 * 240 + 0/ 60 * 10 * 120 + 0/ 60 * 5 * 120 + 45/ 60 * 10 * 240 + 0/ 60 * 5 * 240 + 580/ 60 * 10 * 120 + 387315/ 60 * 5 * 120 = 3890490.00
+Total energy consumed 776478.00
+ 
+ Fridges: 
+  1). 
+FRIDGE with id={6} and name={Bosch DDL200 Full No Frost}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 23 + 16/ 60 * 5 * 23 + 0/ 60 * 10 * 45 + 16/ 60 * 5 * 45 + 39/ 60 * 10 * 23 + 39/ 60 * 5 * 23 + 59/ 60 * 10 * 45 + 0/ 60 * 5 * 45 + 79/ 60 * 10 * 23 + 0/ 60 * 5 * 23 + 117/ 60 * 10 * 45 + 0/ 60 * 5 * 45 + 580/ 60 * 10 * 23 + 387243/ 60 * 5 * 23 = 746376.81
+Total energy consumed 148875.78
+  2). 
+FRIDGE with id={7} and name={Hyuosch DDL200 Full No Frost}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 23 + 40/ 60 * 5 * 23 + 0/ 60 * 10 * 45 + 14/ 60 * 5 * 45 + 0/ 60 * 10 * 23 + 0/ 60 * 5 * 23 + 0/ 60 * 10 * 45 + 2/ 60 * 5 * 45 + 59/ 60 * 10 * 23 + 7/ 60 * 5 * 23 + 580/ 60 * 10 * 45 + 387301/ 60 * 5 * 45 = 1457105.00
+Total energy consumed 290963.38
+  3). 
+FRIDGE with id={8} and name={Erfurt Sebastian DDL200 Full No Frost}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 23 + 22/ 60 * 5 * 23 + 0/ 60 * 10 * 45 + 6/ 60 * 5 * 45 + 5/ 60 * 10 * 23 + 55/ 60 * 5 * 23 + 37/ 60 * 10 * 45 + 0/ 60 * 5 * 45 + 107/ 60 * 10 * 23 + 0/ 60 * 5 * 23 + 151/ 60 * 10 * 45 + 0/ 60 * 5 * 45 + 580/ 60 * 10 * 23 + 387209/ 60 * 5 * 23 = 746383.38
+Total energy consumed 148870.41
+ 
+ Lamps: 
+  1). 
+LAMP with id={9} and name={DEU Phillips 220 kWt}.
+ Energy: ELECTRIC
+ 25/ 60 * 10 * 23 + 19/ 60 * 5 * 23 + 33/ 60 * 10 * 45 + 0/ 60 * 5 * 45 + 165/ 60 * 10 * 23 + 0/ 60 * 5 * 23 + 181/ 60 * 10 * 45 + 0/ 60 * 5 * 45 + 580/ 60 * 10 * 23 + 387179/ 60 * 5 * 23 = 746686.19
+Total energy consumed 148881.56
+ 
+ PCs: 
+  1). 
+PC with id={10} and name={HP Neuer Srtrasse 295GTX}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 18 + 6/ 60 * 5 * 18 + 0/ 60 * 10 * 35 + 22/ 60 * 5 * 35 + 0/ 60 * 10 * 18 + 0/ 60 * 5 * 18 + 0/ 60 * 10 * 35 + 40/ 60 * 5 * 35 + 0/ 60 * 10 * 18 + 0/ 60 * 5 * 18 + 0/ 60 * 10 * 35 + 18/ 60 * 5 * 35 + 0/ 60 * 10 * 18 + 0/ 60 * 5 * 18 + 45/ 60 * 10 * 35 + 17/ 60 * 5 * 35 + 53/ 60 * 10 * 18 + 0/ 60 * 5 * 18 + 117/ 60 * 10 * 35 + 0/ 60 * 5 * 35 + 131/ 60 * 10 * 18 + 0/ 60 * 5 * 18 + 149/ 60 * 10 * 35 + 0/ 60 * 5 * 35 + 199/ 60 * 10 * 18 + 0/ 60 * 5 * 18 + 215/ 60 * 10 * 35 + 0/ 60 * 5 * 35 + 580/ 60 * 10 * 18 + 387145/ 60 * 5 * 18 = 586966.75
+Total energy consumed 116797.61
+ 
+ Play Stations: 
+  1). 
+PLAY_STATION with id={11} and name={PlayStation Dortmund}.
+ Energy: ELECTRIC
+
+  2). 
+PLAY_STATION with id={12} and name={Strasbourg PlayStation EXXX29}.
+ Energy: ELECTRIC
+ 13/ 60 * 10 * 13 + 39/ 60 * 5 * 13 + 27/ 60 * 10 * 25 + 0/ 60 * 5 * 25 + 580/ 60 * 10 * 13 + 387333/ 60 * 5 * 13 = 421050.34
+Total energy consumed 84070.33
+  3). 
+PLAY_STATION with id={13} and name={PlayStation Spielen Wielen}.
+ Energy: ELECTRIC
+ 580/ 60 * 10 * 13 + 387355/ 60 * 5 * 13 = 420891.22
+Total energy consumed 84052.58
+ 
+ Showers: 
+  1). 
+SHOWER with id={14} and name={Aqua Platz Shower}.
+ Energy: WATER
+ 0/ 60 * 20 * 28 + 8/ 60 * 10 * 28 + 0/ 60 * 20 * 55 + 12/ 60 * 10 * 55 + 0/ 60 * 20 * 28 + 24/ 60 * 10 * 28 + 5/ 60 * 20 * 55 + 55/ 60 * 10 * 55 + 580/ 60 * 20 * 28 + 387355/ 60 * 10 * 28 = 1813925.12
+Total energy consumed 181117.27
+  2). 
+SHOWER with id={15} and name={Kann ich deine nummer haben}.
+ Energy: WATER
+
+  3). 
+SHOWER with id={16} and name={Ja du kannst, genau, naturlich}.
+ Energy: WATER
+
+ 
+ Speakers: 
+  1). 
+SPEAKER with id={17} and name={Gorlitzer Speaker ver.Eins}.
+ Energy: ELECTRIC
+
+  2). 
+SPEAKER with id={18} and name={Gorlitzer Russische Speaker Premium}.
+ Energy: ELECTRIC
+
+  3). 
+SPEAKER with id={19} and name={Bruder HSV Speaker ver.1.2}.
+ Energy: ELECTRIC
+
+ 
+ TVs: 
+  1). 
+TV with id={24} and name={Bayern TV 50 inches}.
+ Energy: ELECTRIC
+
+  2). 
+TV with id={25} and name={Hamburg TV 50 inches Economy}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 5 + 68/ 60 * 5 * 5 + 199/ 60 * 10 * 10 + 7/ 60 * 5 * 10 + 580/ 60 * 10 * 5 + 387161/ 60 * 5 * 5 = 162166.25
+Total energy consumed 32351.75
+  3). 
+TV with id={26} and name={Essen TV 100 inches Premium}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 5 + 20/ 60 * 5 * 5 + 5/ 60 * 10 * 10 + 3/ 60 * 5 * 10 + 580/ 60 * 10 * 5 + 387355/ 60 * 5 * 5 = 161900.41
+Total energy consumed 32330.91
+  4). 
+TV with id={27} and name={Marburg TV 120 inches Lux}.
+ Energy: ELECTRIC
+
+  5). 
+TV with id={28} and name={Padeborn aus Deutscthland TV 50 inches}.
+ Energy: ELECTRIC
+ 580/ 60 * 10 * 5 + 387315/ 60 * 5 * 5 = 161864.58
+Total energy consumed 32324.58
+ 
+ Teapots: 
+  1). 
+TEAPOT with id={20} and name={Electric Berliner pot}.
+ Energy: ELECTRIC
+
+  2). 
+TEAPOT with id={21} and name={Electric Berliner pot}.
+ Energy: ELECTRIC
+
+  3). 
+TEAPOT with id={22} and name={Electric pot isch liebe dich}.
+ Energy: ELECTRIC
+
+  4). 
+TEAPOT with id={23} and name={Electric pot isch liebe dich}.
+ Energy: ELECTRIC
+
+ 
+ Vacuum Cleaners: 
+  1). 
+VACUUM_CLEANER with id={29} and name={Berliner Vacuum Cleaner}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 5 + 8/ 60 * 5 * 5 + 0/ 60 * 10 * 10 + 12/ 60 * 5 * 10 + 149/ 60 * 10 * 5 + 75/ 60 * 5 * 5 + 157/ 60 * 10 * 10 + 0/ 60 * 5 * 10 + 580/ 60 * 10 * 5 + 387203/ 60 * 5 * 5 = 162248.33
+Total energy consumed 32362.75

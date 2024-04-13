@@ -1,0 +1,107 @@
+Report House Consumption: 
+
+Energy costs. Devices: 
+
+ Alarms: 
+  1). 
+ALARM with id={1} and name={Sony Bravos 2500}.
+ Energy: ELECTRIC
+ 1/ 60 * 10 * 5 + 31/ 60 * 5 * 5 + 579/ 60 * 10 * 10 + 387359/ 60 * 5 * 10 = 323777.94
+Total energy consumed 64659.00
+ 
+ Coffee Machines: 
+  1). 
+COFFEE_MACHINE with id={2} and name={Sony Cof Machine Barista}.
+ Energy: ELECTRIC
+ 579/ 60 * 10 * 120 + 387383/ 60 * 5 * 120 = 3885410.00
+Total energy consumed 775924.00
+  2). 
+COFFEE_MACHINE with id={3} and name={Sony 2453 Ras Barista}.
+ Energy: ELECTRIC
+ 579/ 60 * 10 * 120 + 387431/ 60 * 5 * 120 = 3885890.00
+Total energy consumed 776019.94
+  3). 
+COFFEE_MACHINE with id={4} and name={Sony RRR Machine Barista}.
+ Energy: ELECTRIC
+ 57/ 60 * 10 * 120 + 39/ 60 * 5 * 120 + 67/ 60 * 10 * 240 + 0/ 60 * 5 * 240 + 579/ 60 * 10 * 120 + 387293/ 60 * 5 * 120 = 3888720.00
+Total energy consumed 776204.00
+ 
+ Fridges: 
+  1). 
+FRIDGE with id={5} and name={Sony DL200 Full No Frost}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 23 + 8/ 60 * 5 * 23 + 0/ 60 * 10 * 45 + 2/ 60 * 5 * 45 + 0/ 60 * 10 * 23 + 30/ 60 * 5 * 23 + 0/ 60 * 10 * 45 + 10/ 60 * 5 * 45 + 0/ 60 * 10 * 23 + 8/ 60 * 5 * 23 + 0/ 60 * 10 * 45 + 4/ 60 * 5 * 45 + 0/ 60 * 10 * 23 + 8/ 60 * 5 * 23 + 1/ 60 * 10 * 45 + 23/ 60 * 5 * 45 + 0/ 60 * 10 * 23 + 0/ 60 * 5 * 23 + 579/ 60 * 10 * 45 + 387359/ 60 * 5 * 45 = 1457196.00
+Total energy consumed 291004.19
+ 
+ Lamps: 
+  1). 
+LAMP with id={6} and name={Phillips 200 kWt}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 23 + 12/ 60 * 5 * 23 + 0/ 60 * 10 * 45 + 48/ 60 * 5 * 45 + 0/ 60 * 10 * 23 + 0/ 60 * 5 * 23 + 0/ 60 * 10 * 45 + 20/ 60 * 5 * 45 + 37/ 60 * 10 * 23 + 23/ 60 * 5 * 23 + 85/ 60 * 10 * 45 + 0/ 60 * 5 * 45 + 579/ 60 * 10 * 23 + 387275/ 60 * 5 * 23 = 745598.06
+Total energy consumed 148819.72
+ 
+ PCs: 
+  1). 
+PC with id={7} and name={Lenovo 295GTX}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 18 + 62/ 60 * 5 * 18 + 49/ 60 * 10 * 35 + 5/ 60 * 5 * 35 + 579/ 60 * 10 * 18 + 387311/ 60 * 5 * 18 = 583096.94
+Total energy consumed 116417.09
+  2). 
+PC with id={8} and name={Vayo SSD 512 GB 295 GTX}.
+ Energy: ELECTRIC
+ 579/ 60 * 10 * 18 + 387447/ 60 * 5 * 18 = 582907.50
+Total energy consumed 116407.80
+  3). 
+PC with id={9} and name={Sony Pavilion 295GTX}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 18 + 46/ 60 * 5 * 18 + 0/ 60 * 10 * 35 + 4/ 60 * 5 * 35 + 0/ 60 * 10 * 18 + 20/ 60 * 5 * 18 + 25/ 60 * 10 * 35 + 19/ 60 * 5 * 35 + 85/ 60 * 10 * 18 + 0/ 60 * 5 * 18 + 93/ 60 * 10 * 35 + 0/ 60 * 5 * 35 + 579/ 60 * 10 * 18 + 387267/ 60 * 5 * 18 = 583746.94
+Total energy consumed 116481.35
+  4). 
+PC with id={10} and name={Sony Pavilion 295GTX}.
+ Energy: ELECTRIC
+ 579/ 60 * 10 * 18 + 387397/ 60 * 5 * 18 = 582832.50
+Total energy consumed 116392.80
+ 
+ Play Stations: 
+  1). 
+PLAY_STATION with id={11} and name={PlayStation 4 Ultimate}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 13 + 56/ 60 * 5 * 13 + 0/ 60 * 10 * 25 + 34/ 60 * 5 * 25 + 579/ 60 * 10 * 13 + 387373/ 60 * 5 * 13 = 421040.09
+Total energy consumed 84082.56
+ 
+ Showers: 
+  1). 
+SHOWER with id={12} and name={Japan Aqua Shower}.
+ Energy: WATER
+ 0/ 60 * 20 * 28 + 8/ 60 * 10 * 28 + 0/ 60 * 20 * 55 + 4/ 60 * 10 * 55 + 0/ 60 * 20 * 28 + 4/ 60 * 10 * 28 + 0/ 60 * 20 * 55 + 8/ 60 * 10 * 55 + 0/ 60 * 20 * 28 + 8/ 60 * 10 * 28 + 0/ 60 * 20 * 55 + 4/ 60 * 10 * 55 + 0/ 60 * 20 * 28 + 0/ 60 * 10 * 28 + 0/ 60 * 20 * 55 + 20/ 60 * 10 * 55 + 0/ 60 * 20 * 28 + 40/ 60 * 10 * 28 + 3/ 60 * 20 * 55 + 3/ 60 * 10 * 55 + 93/ 60 * 20 * 28 + 0/ 60 * 10 * 28 + 105/ 60 * 20 * 55 + 0/ 60 * 10 * 55 + 0/ 60 * 20 * 28 + 0/ 60 * 10 * 28 + 125/ 60 * 20 * 55 + 0/ 60 * 10 * 55 + 579/ 60 * 20 * 28 + 387235/ 60 * 10 * 28 = 1818277.75
+Total energy consumed 181300.59
+ 
+ Speakers: 
+  1). 
+SPEAKER with id={13} and name={Google Speaker ver.1.2}.
+ Energy: ELECTRIC
+
+ 
+ TVs: 
+  1). 
+TV with id={16} and name={LG TV 50 inches}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 5 + 8/ 60 * 5 * 5 + 0/ 60 * 10 * 10 + 52/ 60 * 5 * 10 + 0/ 60 * 10 * 5 + 0/ 60 * 5 * 5 + 0/ 60 * 10 * 10 + 24/ 60 * 5 * 10 + 0/ 60 * 10 * 5 + 0/ 60 * 5 * 5 + 5/ 60 * 10 * 10 + 11/ 60 * 5 * 10 + 13/ 60 * 10 * 5 + 0/ 60 * 5 * 5 + 37/ 60 * 10 * 10 + 0/ 60 * 5 * 10 + 579/ 60 * 10 * 5 + 387323/ 60 * 5 * 5 = 162023.75
+Total energy consumed 32348.42
+ 
+ Teapots: 
+  1). 
+TEAPOT with id={14} and name={Electric Nokia}.
+ Energy: ELECTRIC
+
+  2). 
+TEAPOT with id={15} and name={Electric Nokia}.
+ Energy: ELECTRIC
+
+ 
+ Vacuum Cleaners: 
+  1). 
+VACUUM_CLEANER with id={17} and name={Dyson Vacuum Cleaner}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 5 + 4/ 60 * 5 * 5 + 0/ 60 * 10 * 10 + 2/ 60 * 5 * 10 + 0/ 60 * 10 * 5 + 10/ 60 * 5 * 5 + 0/ 60 * 10 * 10 + 48/ 60 * 5 * 10 + 0/ 60 * 10 * 5 + 0/ 60 * 5 * 5 + 0/ 60 * 10 * 10 + 12/ 60 * 5 * 10 + 0/ 60 * 10 * 5 + 16/ 60 * 5 * 5 + 23/ 60 * 10 * 10 + 7/ 60 * 5 * 10 + 0/ 60 * 10 * 5 + 0/ 60 * 5 * 5 + 53/ 60 * 10 * 10 + 0/ 60 * 5 * 10 + 0/ 60 * 10 * 5 + 0/ 60 * 5 * 5 + 57/ 60 * 10 * 10 + 0/ 60 * 5 * 10 + 0/ 60 * 10 * 5 + 0/ 60 * 5 * 5 + 117/ 60 * 10 * 10 + 0/ 60 * 5 * 10 + 579/ 60 * 10 * 5 + 387243/ 60 * 5 * 5 = 162320.42
+Total energy consumed 32374.16

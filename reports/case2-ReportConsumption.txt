@@ -1,0 +1,138 @@
+Report House Consumption: 
+
+Energy costs. Devices: 
+
+ Alarms: 
+  1). 
+ALARM with id={1} and name={Wake up Bro}.
+ Energy: ELECTRIC
+ 578/ 60 * 10 * 5 + 387383/ 60 * 5 * 5 = 161891.25
+Total energy consumed 32330.08
+ 
+ Coffee Machines: 
+  1). 
+COFFEE_MACHINE with id={2} and name={Tchibo Machine Barista}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 120 + 8/ 60 * 5 * 120 + 0/ 60 * 10 * 240 + 42/ 60 * 5 * 240 + 0/ 60 * 10 * 120 + 26/ 60 * 5 * 120 + 21/ 60 * 10 * 240 + 23/ 60 * 5 * 240 + 177/ 60 * 10 * 120 + 0/ 60 * 5 * 120 + 185/ 60 * 10 * 240 + 0/ 60 * 5 * 240 + 313/ 60 * 10 * 120 + 0/ 60 * 5 * 120 + 578/ 60 * 10 * 240 + 387047/ 60 * 5 * 240 = 7783740.00
+Total energy consumed 1552632.00
+ 
+ Fridges: 
+  1). 
+FRIDGE with id={3} and name={Samsung DL200 Full No Frost}.
+ Energy: ELECTRIC
+ 578/ 60 * 10 * 23 + 387257/ 60 * 5 * 23 = 744458.25
+Total energy consumed 148670.08
+  2). 
+FRIDGE with id={4} and name={Indesit XXL 500 kWt}.
+ Energy: ELECTRIC
+ 578/ 60 * 10 * 23 + 387231/ 60 * 5 * 23 = 744408.44
+Total energy consumed 148660.12
+  3). 
+FRIDGE with id={5} and name={Indesit USA 2000 LW}.
+ Energy: ELECTRIC
+
+  4). 
+FRIDGE with id={6} and name={Indesit USA 2000 LW}.
+ Energy: ELECTRIC
+
+  5). 
+FRIDGE with id={7} and name={Camaru Usman 500 Nightmare}.
+ Energy: ELECTRIC
+
+  6). 
+FRIDGE with id={8} and name={Camaru Usman 500 Nightmare}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 23 + 32/ 60 * 5 * 23 + 0/ 60 * 10 * 45 + 24/ 60 * 5 * 45 + 578/ 60 * 10 * 23 + 387395/ 60 * 5 * 23 = 744874.12
+Total energy consumed 148753.25
+  7). 
+FRIDGE with id={9} and name={Camaru Usman 500 Nightmare}.
+ Energy: ELECTRIC
+ 201/ 60 * 10 * 23 + 0/ 60 * 5 * 23 + 578/ 60 * 10 * 45 + 387159/ 60 * 5 * 45 = 1456951.75
+Total energy consumed 290879.81
+ 
+ Lamps: 
+  1). 
+LAMP with id={10} and name={Phillips 200 kWt}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 23 + 64/ 60 * 5 * 23 + 29/ 60 * 10 * 45 + 3/ 60 * 5 * 45 + 578/ 60 * 10 * 23 + 387331/ 60 * 5 * 23 = 744951.44
+Total energy consumed 148746.98
+ 
+ PCs: 
+  1). 
+PC with id={11} and name={HP Pavilion 295GTX}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 18 + 4/ 60 * 5 * 18 + 21/ 60 * 10 * 35 + 31/ 60 * 5 * 35 + 578/ 60 * 10 * 18 + 387339/ 60 * 5 * 18 = 582961.44
+Total energy consumed 116406.62
+  2). 
+PC with id={12} and name={Macbook Air Pro 2020}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 18 + 8/ 60 * 5 * 18 + 0/ 60 * 10 * 35 + 4/ 60 * 5 * 35 + 0/ 60 * 10 * 18 + 40/ 60 * 5 * 18 + 0/ 60 * 10 * 35 + 4/ 60 * 5 * 35 + 578/ 60 * 10 * 18 + 387407/ 60 * 5 * 18 = 582939.81
+Total energy consumed 116414.57
+  3). 
+PC with id={13} and name={LG Platinum Version 15-OLED 500-SSD}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 18 + 50/ 60 * 5 * 18 + 0/ 60 * 10 * 35 + 12/ 60 * 5 * 35 + 0/ 60 * 10 * 18 + 6/ 60 * 5 * 18 + 17/ 60 * 10 * 35 + 37/ 60 * 5 * 35 + 578/ 60 * 10 * 18 + 387343/ 60 * 5 * 18 = 583074.56
+Total energy consumed 116431.60
+ 
+ Play Stations: 
+  1). 
+PLAY_STATION with id={14} and name={PlayStation 4 Ultimate}.
+ Energy: ELECTRIC
+ 21/ 60 * 10 * 13 + 83/ 60 * 5 * 13 + 129/ 60 * 10 * 25 + 0/ 60 * 5 * 25 + 0/ 60 * 10 * 13 + 0/ 60 * 5 * 13 + 141/ 60 * 10 * 25 + 0/ 60 * 5 * 25 + 0/ 60 * 10 * 13 + 0/ 60 * 5 * 13 + 149/ 60 * 10 * 25 + 0/ 60 * 5 * 25 + 185/ 60 * 10 * 13 + 0/ 60 * 5 * 13 + 201/ 60 * 10 * 25 + 0/ 60 * 5 * 25 + 578/ 60 * 10 * 13 + 387159/ 60 * 5 * 13 = 423794.16
+Total energy consumed 84330.63
+ 
+ Showers: 
+  1). 
+SHOWER with id={15} and name={Aqua Shower}.
+ Energy: WATER
+ 578/ 60 * 20 * 28 + 387431/ 60 * 10 * 28 = 1813405.88
+Total energy consumed 181070.86
+ 
+ Speakers: 
+  1). 
+SPEAKER with id={16} and name={Google Speaker ver.1.2}.
+ Energy: ELECTRIC
+
+  2). 
+SPEAKER with id={17} and name={Amazon Speaker XYZ}.
+ Energy: ELECTRIC
+
+ 
+ TVs: 
+  1). 
+TV with id={20} and name={Samsung AMOLED 90 inches}.
+ Energy: ELECTRIC
+ 578/ 60 * 10 * 5 + 387447/ 60 * 5 * 5 = 161917.92
+Total energy consumed 32335.42
+  2). 
+TV with id={21} and name={LG TV 50 inches}.
+ Energy: ELECTRIC
+ 33/ 60 * 10 * 5 + 103/ 60 * 5 * 5 + 103/ 60 * 10 * 10 + 0/ 60 * 5 * 10 + 149/ 60 * 10 * 5 + 0/ 60 * 5 * 5 + 177/ 60 * 10 * 10 + 0/ 60 * 5 * 10 + 578/ 60 * 10 * 5 + 387183/ 60 * 5 * 5 = 162469.17
+Total energy consumed 32383.83
+ 
+ Teapots: 
+  1). 
+TEAPOT with id={18} and name={Electric Nokia}.
+ Energy: ELECTRIC
+
+  2). 
+TEAPOT with id={19} and name={Electric Nokia}.
+ Energy: ELECTRIC
+
+ 
+ Vacuum Cleaners: 
+  1). 
+VACUUM_CLEANER with id={22} and name={Dyson Model 2020}.
+ Energy: ELECTRIC
+ 193/ 60 * 10 * 5 + 95/ 60 * 5 * 5 + 313/ 60 * 10 * 10 + 0/ 60 * 5 * 10 + 578/ 60 * 10 * 5 + 387047/ 60 * 5 * 5 = 162473.33
+Total energy consumed 32378.25
+  2). 
+VACUUM_CLEANER with id={23} and name={LG VC made in China}.
+ Energy: ELECTRIC
+ 21/ 60 * 10 * 5 + 87/ 60 * 5 * 5 + 51/ 60 * 10 * 10 + 0/ 60 * 5 * 10 + 578/ 60 * 10 * 5 + 387309/ 60 * 5 * 5 = 161999.17
+Total energy consumed 32341.42
+  3). 
+VACUUM_CLEANER with id={24} and name={Dyson Vacuum Cleaner}.
+ Energy: ELECTRIC
+ 578/ 60 * 10 * 5 + 387223/ 60 * 5 * 5 = 161824.59
+Total energy consumed 32316.75

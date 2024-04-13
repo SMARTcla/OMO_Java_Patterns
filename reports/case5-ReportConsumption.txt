@@ -1,0 +1,122 @@
+Report House Consumption: 
+
+Energy costs. Devices: 
+
+
+ Alarms: 
+  1). 
+ALARM with id={1} and name={Bratishka vstavay Bro}.
+ Energy: ELECTRIC
+ 856/ 60 * 10 * 5 + 390083/ 60 * 5 * 5 = 163247.91
+Total energy consumed 32578.25
+
+ Coffee Machines: 
+  1). 
+COFFEE_MACHINE with id={2} and name={Adler Kofe Machine Barista}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 120 + 28/ 60 * 5 * 120 + 65/ 60 * 10 * 240 + 47/ 60 * 5 * 240 + 0/ 60 * 10 * 120 + 0/ 60 * 5 * 120 + 105/ 60 * 10 * 240 + 0/ 60 * 5 * 240 + 0/ 60 * 10 * 120 + 0/ 60 * 5 * 120 + 157/ 60 * 10 * 240 + 0/ 60 * 5 * 240 + 856/ 60 * 10 * 120 + 390083/ 60 * 5 * 120 = 3932250.00
+Total energy consumed 783430.00
+
+ Fridges: 
+  1). 
+FRIDGE with id={3} and name={Vladik Ufa DL200 Full No Frost}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 23 + 2/ 60 * 5 * 23 + 0/ 60 * 10 * 45 + 32/ 60 * 5 * 45 + 0/ 60 * 10 * 23 + 8/ 60 * 5 * 23 + 0/ 60 * 10 * 45 + 14/ 60 * 5 * 45 + 0/ 60 * 10 * 23 + 6/ 60 * 5 * 23 + 856/ 60 * 10 * 45 + 390279/ 60 * 5 * 45 = 1470169.38
+Total energy consumed 293391.88
+  2). 
+FRIDGE with id={5} and name={Vladik Ufa DL200 Full No Frost}.
+ Energy: ELECTRIC
+ 856/ 60 * 10 * 23 + 390329/ 60 * 5 * 23 = 751411.94
+Total energy consumed 149954.25
+
+ Lamps: 
+  1). 
+LAMP with id={4} and name={Voentorg 200 kWt}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 23 + 32/ 60 * 5 * 23 + 0/ 60 * 10 * 45 + 4/ 60 * 5 * 45 + 856/ 60 * 10 * 23 + 390283/ 60 * 5 * 23 = 751400.12
+Total energy consumed 149951.89
+  2). 
+LAMP with id={6} and name={Voentorg 200 kWt}.
+ Energy: ELECTRIC
+ 856/ 60 * 10 * 23 + 390327/ 60 * 5 * 23 = 751408.06
+Total energy consumed 149953.48
+
+ PCs: 
+  1). 
+PC with id={7} and name={RosNano Pavilion 295GTX}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 18 + 4/ 60 * 5 * 18 + 0/ 60 * 10 * 35 + 30/ 60 * 5 * 35 + 0/ 60 * 10 * 18 + 0/ 60 * 5 * 18 + 0/ 60 * 10 * 35 + 4/ 60 * 5 * 35 + 0/ 60 * 10 * 18 + 0/ 60 * 5 * 18 + 0/ 60 * 10 * 35 + 0/ 60 * 5 * 35 + 0/ 60 * 10 * 18 + 6/ 60 * 5 * 18 + 0/ 60 * 10 * 35 + 42/ 60 * 5 * 35 + 9/ 60 * 10 * 18 + 11/ 60 * 5 * 18 + 11/ 60 * 10 * 35 + 0/ 60 * 5 * 35 + 27/ 60 * 10 * 18 + 0/ 60 * 5 * 18 + 37/ 60 * 10 * 35 + 0/ 60 * 5 * 35 + 856/ 60 * 10 * 18 + 390203/ 60 * 5 * 18 = 588513.69
+Total energy consumed 117407.12
+
+ Play Stations: 
+  1). 
+PLAY_STATION with id={8} and name={PlayStation 4 Ultimate}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 13 + 16/ 60 * 5 * 13 + 49/ 60 * 10 * 25 + 79/ 60 * 5 * 25 + 856/ 60 * 10 * 13 + 390191/ 60 * 5 * 13 = 424947.66
+Total energy consumed 84783.64
+
+ Showers: 
+  1). 
+SHOWER with id={9} and name={Yandex Aqua SPB North Shower}.
+ Energy: WATER
+ 856/ 60 * 10 * 28 + 390343/ 60 * 5 * 28 = 914795.06
+Total energy consumed 182559.53
+  2). 
+SHOWER with id={11} and name={Yandex Aqua SPB North Shower}.
+ Energy: WATER
+
+  3). 
+SHOWER with id={13} and name={Yandex Aqua SPB North Shower}.
+ Energy: WATER
+ 856/ 60 * 10 * 28 + 390339/ 60 * 5 * 28 = 914785.69
+Total energy consumed 182557.66
+
+ Speakers: 
+  1). 
+SPEAKER with id={10} and name={Yandex Moscow Speaker ver.1.2}.
+ Energy: ELECTRIC
+
+  2). 
+SPEAKER with id={12} and name={Yandex Moscow Speaker ver.1.2}.
+ Energy: ELECTRIC
+
+  3). 
+SPEAKER with id={14} and name={Yandex Moscow Speaker ver.1.2}.
+ Energy: ELECTRIC
+
+
+ TVs: 
+  1). 
+TV with id={17} and name={Electronic Russia TV 50 inches}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 5 + 52/ 60 * 5 * 5 + 0/ 60 * 10 * 10 + 2/ 60 * 5 * 10 + 856/ 60 * 10 * 5 + 390289/ 60 * 5 * 5 = 163357.09
+Total energy consumed 32600.08
+  2). 
+TV with id={20} and name={Electronic Russia TV 50 inches}.
+ Energy: ELECTRIC
+
+
+ Teapots: 
+  1). 
+TEAPOT with id={15} and name={Electric Nokia}.
+ Energy: ELECTRIC
+
+  2). 
+TEAPOT with id={16} and name={Electric Nokia}.
+ Energy: ELECTRIC
+
+  3). 
+TEAPOT with id={18} and name={Electric Nokia}.
+ Energy: ELECTRIC
+
+  4). 
+TEAPOT with id={19} and name={Electric Nokia}.
+ Energy: ELECTRIC
+
+
+ Vacuum Cleaners: 
+  1). 
+VACUUM_CLEANER with id={21} and name={Moskau Vacuum Cleaner}.
+ Energy: ELECTRIC
+ 0/ 60 * 10 * 5 + 16/ 60 * 5 * 5 + 0/ 60 * 10 * 10 + 4/ 60 * 5 * 10 + 25/ 60 * 10 * 5 + 47/ 60 * 5 * 5 + 27/ 60 * 10 * 10 + 0/ 60 * 5 * 10 + 856/ 60 * 10 * 5 + 390213/ 60 * 5 * 5 = 163397.50
+Total energy consumed 32601.58
