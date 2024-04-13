@@ -9,7 +9,7 @@
 
 ## :label: Zadání
 <details><summary> This repository contains the code for a virtual simulation application of a smart home. The application is designed to simulate the operations of a household, using various home appliances, and evaluate the utilization, consumption, and time distribution (both working and leisure) of its inhabitants. </summary>
-<br>
+<br></details>
 
 
 ## :label: Description
@@ -25,7 +25,6 @@ The application is part of a project undertaken at the Faculty of Electrical Eng
 [**Odkaz na zadaní**](https://docs.google.com/document/d/1Y3EAonMWISGIhRqEhg9kaIxJZLXauUrZPiCyVq_LtEg/)
 
 
-</details>
 
 ## :label: Funkční požadavky
 
